@@ -1,0 +1,20 @@
+
+melina.sprite.defend.png
+size: 672,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 525, 601
+  orig: 525, 601
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 605, 168
+  size: 359, 65
+  orig: 359, 65
+  offset: 0, 0
+  index: -1

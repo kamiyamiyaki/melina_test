@@ -1,0 +1,104 @@
+
+initiator.sprite.crossfire_fx.png
+size: 2570,686
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust
+  rotate: false
+  xy: 2, 98
+  size: 1082, 586
+  orig: 1082, 586
+  offset: 0, 0
+  index: -1
+muzzle_flash
+  rotate: false
+  xy: 2384, 198
+  size: 147, 120
+  orig: 147, 120
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 1820, 16
+  size: 562, 668
+  orig: 562, 668
+  offset: 0, 0
+  index: -1
+shot
+  rotate: false
+  xy: 2, 24
+  size: 208, 72
+  orig: 208, 72
+  offset: 0, 0
+  index: -1
+silhouette
+  rotate: true
+  xy: 1086, 14
+  size: 670, 732
+  orig: 670, 732
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 2384, 503
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+smoke_orange
+  rotate: false
+  xy: 2384, 320
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+sparks01
+  rotate: false
+  xy: 212, 60
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+sparks02
+  rotate: false
+  xy: 254, 68
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+sparks03
+  rotate: false
+  xy: 2384, 164
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+sparks04
+  rotate: false
+  xy: 2, 2
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+sparks05
+  rotate: true
+  xy: 2533, 247
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+sparks06
+  rotate: false
+  xy: 2533, 293
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+sparks07
+  rotate: false
+  xy: 212, 25
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1

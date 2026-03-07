@@ -1,0 +1,13 @@
+
+initiator.sprite.attack_angled_entry.png
+size: 1196,678
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angled_entry
+  rotate: false
+  xy: 2, 2
+  size: 1192, 674
+  orig: 1192, 674
+  offset: 0, 0
+  index: -1

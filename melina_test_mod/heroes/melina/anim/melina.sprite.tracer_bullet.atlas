@@ -1,0 +1,13 @@
+
+initiator.sprite.tracer_bullet.png
+size: 892,776
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+single_shot
+  rotate: false
+  xy: 2, 2
+  size: 888, 772
+  orig: 888, 772
+  offset: 0, 0
+  index: -1

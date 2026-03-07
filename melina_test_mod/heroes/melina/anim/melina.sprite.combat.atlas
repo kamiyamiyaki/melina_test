@@ -1,0 +1,104 @@
+
+melina.sprite.combat.png
+size: 1530,406
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 955, 8
+  size: 113, 215
+  orig: 113, 215
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 1310, 296
+  size: 108, 212
+  orig: 108, 212
+  offset: 0, 0
+  index: -1
+Body_Down
+  rotate: true
+  xy: 532, 58
+  size: 346, 421
+  orig: 346, 421
+  offset: 0, 0
+  index: -1
+Body_Top
+  rotate: true
+  xy: 1310, 14
+  size: 152, 144
+  orig: 152, 144
+  offset: 0, 0
+  index: -1
+Cape_Back
+  rotate: true
+  xy: 2, 26
+  size: 378, 461
+  orig: 378, 461
+  offset: 0, 0
+  index: -1
+Cape_Front
+  rotate: true
+  xy: 955, 123
+  size: 281, 201
+  orig: 281, 201
+  offset: 0, 0
+  index: -1
+Hair_Back
+  rotate: false
+  xy: 1456, 151
+  size: 72, 143
+  orig: 72, 143
+  offset: 0, 0
+  index: -1
+Hair_Front
+  rotate: false
+  xy: 1172, 2
+  size: 136, 163
+  orig: 136, 163
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 1456, 73
+  size: 70, 76
+  orig: 70, 76
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 1158, 167
+  size: 237, 134
+  orig: 237, 134
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1294, 168
+  size: 126, 132
+  orig: 126, 132
+  offset: 0, 0
+  index: -1
+Line_Back
+  rotate: true
+  xy: 2, 3
+  size: 21, 77
+  orig: 21, 77
+  offset: 0, 0
+  index: -1
+Line_Front
+  rotate: true
+  xy: 532, 3
+  size: 53, 109
+  orig: 53, 109
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 465, 45
+  size: 359, 65
+  orig: 359, 65
+  offset: 0, 0
+  index: -1

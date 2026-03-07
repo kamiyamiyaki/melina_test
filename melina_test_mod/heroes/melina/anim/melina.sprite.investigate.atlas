@@ -1,0 +1,13 @@
+
+initiator.sprite.investigate.png
+size: 753,732
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+investigate
+  rotate: false
+  xy: 2, 2
+  size: 749, 728
+  orig: 749, 728
+  offset: 0, 0
+  index: -1

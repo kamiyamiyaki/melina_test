@@ -1,0 +1,111 @@
+
+initiator.sprite.riposte_fx.png
+size: 2611,893
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cutlass_trail
+  rotate: false
+  xy: 2242, 289
+  size: 349, 602
+  orig: 349, 602
+  offset: 0, 0
+  index: -1
+initiator.sprite.defend
+  rotate: false
+  xy: 2, 2
+  size: 876, 889
+  orig: 876, 889
+  offset: 0, 0
+  index: -1
+muzzle_flash
+  rotate: false
+  xy: 1606, 17
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 1606, 82
+  size: 809, 634
+  orig: 809, 634
+  offset: 0, 0
+  index: -1
+shot
+  rotate: false
+  xy: 880, 5
+  size: 151, 37
+  orig: 151, 37
+  offset: 0, 0
+  index: -1
+silhouette
+  rotate: true
+  xy: 880, 44
+  size: 847, 724
+  orig: 847, 724
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 2242, 103
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+smoke_orange
+  rotate: false
+  xy: 2425, 106
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+sparks01
+  rotate: true
+  xy: 1065, 5
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+sparks02
+  rotate: true
+  xy: 1122, 15
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+sparks03
+  rotate: true
+  xy: 1033, 5
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+sparks04
+  rotate: true
+  xy: 1194, 17
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+sparks05
+  rotate: true
+  xy: 1094, 9
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+sparks06
+  rotate: true
+  xy: 1147, 17
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+sparks07
+  rotate: false
+  xy: 1171, 16
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1

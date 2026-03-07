@@ -1,0 +1,27 @@
+
+initiator.sprite.heroic.png
+size: 2338,1131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 2, 2
+  size: 1341, 1127
+  orig: 1341, 1127
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 1345, 82
+  size: 309, 298
+  orig: 309, 298
+  offset: 0, 0
+  index: -1
+heroic_B
+  rotate: false
+  xy: 1345, 382
+  size: 991, 747
+  orig: 991, 747
+  offset: 0, 0
+  index: -1

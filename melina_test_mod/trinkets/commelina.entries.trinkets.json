@@ -1,0 +1,22 @@
+{
+   "entries":
+   [
+      {
+         "id" : "melina_com",
+         "buffs" : 
+         [
+            "melina_TRINKET_SCOUTING_B1",
+            "melina_TRINKET_STRESSDEF_B1",
+            "melina_TRINKET_ACC_B1"
+         ],
+         "hero_class_requirements":
+         [
+            "melina"
+         ],
+         "rarity" : "comet",
+         "shard" : 60,
+         "limit" : 1,
+         "origin_dungeon" : "courtyard"
+      }
+   ]
+}

@@ -1,0 +1,20 @@
+
+monk.sprite.attack_high_kick.png
+size: 667,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 602, 116
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+sprite2-(A)_0004_kick
+  rotate: false
+  xy: 2, 2
+  size: 598, 471
+  orig: 598, 471
+  offset: 0, 0
+  index: -1

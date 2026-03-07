@@ -1,0 +1,34 @@
+
+initiator.sprite.dive_kick_fx.png
+size: 2339,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cutlass_trail
+  rotate: true
+  xy: 771, 34
+  size: 349, 602
+  orig: 349, 602
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 1375, 82
+  size: 552, 301
+  orig: 552, 301
+  offset: 0, 0
+  index: -1
+silhouette01
+  rotate: true
+  xy: 2, 2
+  size: 381, 767
+  orig: 381, 767
+  offset: 0, 0
+  index: -1
+spd_line
+  rotate: true
+  xy: 1929, 48
+  size: 335, 408
+  orig: 335, 408
+  offset: 0, 0
+  index: -1

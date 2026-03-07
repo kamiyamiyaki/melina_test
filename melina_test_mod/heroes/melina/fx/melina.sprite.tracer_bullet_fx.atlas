@@ -1,0 +1,118 @@
+
+initiator.sprite.tracer_bullet_fx.png
+size: 1654,770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barrel_glint
+  rotate: false
+  xy: 1551, 333
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+barrel_glow
+  rotate: false
+  xy: 1468, 322
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+muzzle_flash
+  rotate: true
+  xy: 1468, 225
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+pistol_glow
+  rotate: false
+  xy: 996, 25
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 843, 46
+  size: 623, 722
+  orig: 623, 722
+  offset: 0, 0
+  index: -1
+shot
+  rotate: false
+  xy: 843, 7
+  size: 151, 37
+  orig: 151, 37
+  offset: 0, 0
+  index: -1
+silhouette
+  rotate: false
+  xy: 2, 2
+  size: 839, 766
+  orig: 839, 766
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 1468, 587
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+smoke_orange
+  rotate: false
+  xy: 1468, 404
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+sparks01
+  rotate: true
+  xy: 1617, 365
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+sparks02
+  rotate: true
+  xy: 1507, 196
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+sparks03
+  rotate: false
+  xy: 1468, 193
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+sparks04
+  rotate: false
+  xy: 1062, 25
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+sparks05
+  rotate: false
+  xy: 1468, 165
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+sparks06
+  rotate: false
+  xy: 1617, 341
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+sparks07
+  rotate: false
+  xy: 1468, 137
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1

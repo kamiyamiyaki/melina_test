@@ -1,0 +1,34 @@
+
+initiator.sprite.kickback_fx.png
+size: 2388,590
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust
+  rotate: false
+  xy: 2, 2
+  size: 1082, 586
+  orig: 1082, 586
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 1978, 19
+  size: 388, 232
+  orig: 388, 232
+  offset: 0, 0
+  index: -1
+silhouette
+  rotate: false
+  xy: 1086, 4
+  size: 890, 584
+  orig: 890, 584
+  offset: 0, 0
+  index: -1
+spd_line
+  rotate: true
+  xy: 1978, 253
+  size: 335, 408
+  orig: 335, 408
+  offset: 0, 0
+  index: -1

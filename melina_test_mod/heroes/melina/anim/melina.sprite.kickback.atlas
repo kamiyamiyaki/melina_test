@@ -1,0 +1,20 @@
+
+initiator.sprite.kickback.png
+size: 978,852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kickback
+  rotate: false
+  xy: 2, 143
+  size: 974, 707
+  orig: 974, 707
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 770, 139
+  orig: 770, 139
+  offset: 0, 0
+  index: -1

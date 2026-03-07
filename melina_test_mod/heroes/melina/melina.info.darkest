@@ -1,0 +1,85 @@
+resistances: .stun 30% .poison 50% .bleed 30% .disease 60% .move 20% .debuff 20% .death_blow 67% .trap 50%
+
+crit: .effects "on_crit_def" 
+
+weapon: .name "melina_weapon_0" .atk 0% .dmg 3 7 .crit 6% .spd 8
+weapon: .name "melina_weapon_1" .atk 0% .dmg 4 8 .crit 7% .spd 8 .upgradeRequirementCode 0
+weapon: .name "melina_weapon_2" .atk 0% .dmg 5 10 .crit 8% .spd 9 .upgradeRequirementCode 1
+weapon: .name "melina_weapon_3" .atk 0% .dmg 6 12 .crit 9% .spd 9 .upgradeRequirementCode 2
+weapon: .name "melina_weapon_4" .atk 0% .dmg 7 14 .crit 10% .spd 10 .upgradeRequirementCode 3
+
+armour: .name "melina_armour_0" .def 12% .prot 0 .hp 20 .spd 0
+armour: .name "melina_armour_1" .def 18% .prot 0 .hp 27 .spd 0 .upgradeRequirementCode 0
+armour: .name "melina_armour_2" .def 24% .prot 0 .hp 33 .spd 0 .upgradeRequirementCode 1
+armour: .name "melina_armour_3" .def 30% .prot 0 .hp 39 .spd 0 .upgradeRequirementCode 2
+armour: .name "melina_armour_4" .def 36% .prot 0 .hp 46 .spd 0 .upgradeRequirementCode 3
+
+
+
+combat_skill: .id "single_shot" .level 0 .type "ranged" .atk 90% .dmg -20% .crit 3% .launch 321 .target 1234 .is_crit_valid True .ignore_protection true  .effect  "melina dmg marked 1" "Man Killer 3" "Build to Crossfire"  .generation_guaranteed true
+combat_skill: .id "single_shot" .level 1 .type "ranged" .atk 95% .dmg -20% .crit 4% .launch 321 .target 1234 .is_crit_valid True .ignore_protection true  .effect "melina dmg marked 2" "Man Killer 3" "Build to Crossfire" 
+combat_skill: .id "single_shot" .level 2 .type "ranged" .atk 100% .dmg -20% .crit 5% .launch 321 .target 1234 .is_crit_valid True .ignore_protection true  .effect "melina dmg marked 3" "Man Killer 4" "Build to Crossfire" 
+combat_skill: .id "single_shot" .level 3 .type "ranged" .atk 105% .dmg -20% .crit 6% .launch 321 .target 1234 .is_crit_valid True .ignore_protection true  .effect "melina dmg marked 4" "Man Killer 4" "Build to Crossfire" 
+combat_skill: .id "single_shot" .level 4 .type "ranged" .atk 110% .dmg -20% .crit 7% .launch 321 .target 1234 .is_crit_valid True .ignore_protection true  .effect "melina dmg marked 5" "Man Killer 5" "Build to Crossfire" 
+
+combat_skill: .id "angled_entry" .level 0 .type "ranged" .atk 85% .dmg -60% .crit 1% .move 0 2 .launch 432 .target ~123 .is_crit_valid True  .effect  "melina riposte 1" "melina debuff a 1" "melina speed buff 1" "Build to Crossfire" 
+combat_skill: .id "angled_entry" .level 1 .type "ranged" .atk 90% .dmg -60% .crit 1% .move 0 2 .launch 432 .target ~123 .is_crit_valid True  .effect  "melina riposte 2" "melina debuff a 2" "melina speed buff 2" "Build to Crossfire" 
+combat_skill: .id "angled_entry" .level 2 .type "ranged" .atk 95% .dmg -60% .crit 2% .move 0 2 .launch 432 .target ~123 .is_crit_valid True  .effect  "melina riposte 3" "melina debuff a 3" "melina speed buff 3" "Build to Crossfire" 
+combat_skill: .id "angled_entry" .level 3 .type "ranged" .atk 100% .dmg -60% .crit 2% .move 0 2 .launch 432 .target ~123 .is_crit_valid True  .effect  "melina riposte 4" "melina debuff a 4" "melina speed buff 4" "Build to Crossfire" 
+combat_skill: .id "angled_entry" .level 4 .type "ranged" .atk 105% .dmg -60% .crit 3% .move 0 2 .launch 432 .target ~123 .is_crit_valid True  .effect  "melina riposte 5" "melina debuff a 5" "melina speed buff 5" "Build to Crossfire" 
+
+combat_skill: .id "dive_kick" .level 0 .type "melee" .atk 90% .dmg -10% .crit 9% .move 0 2 .launch 432 .target 23 .is_crit_valid True .ignore_guard true  .effect "Clear Guarded Target" "Push 1B"  "melina debuff b 1" "melina riposte 1" "melina speed buff 1" "Build to Crossfire"
+combat_skill: .id "dive_kick" .level 1 .type "melee" .atk 95% .dmg -10% .crit 10% .move 0 2 .launch 432 .target 23 .is_crit_valid True .ignore_guard true  .effect "Clear Guarded Target" "Push 1C"  "melina debuff b 2" "melina riposte 2" "melina speed buff 2" "Build to Crossfire"
+combat_skill: .id "dive_kick" .level 2 .type "melee" .atk 100% .dmg -10% .crit 11% .move 0 2 .launch 432 .target 23 .is_crit_valid True .ignore_guard true  .effect "Clear Guarded Target" "Push 1D"  "melina debuff b 3" "melina riposte 3" "melina speed buff 3" "Build to Crossfire"
+combat_skill: .id "dive_kick" .level 3 .type "melee" .atk 105% .dmg -10% .crit 12% .move 0 2 .launch 432 .target 23 .is_crit_valid True .ignore_guard true  .effect "Clear Guarded Target" "Push 1E"  "melina debuff b 4" "melina riposte 4" "melina speed buff 4" "Build to Crossfire"
+combat_skill: .id "dive_kick" .level 4 .type "melee" .atk 110% .dmg -10% .crit 13% .move 0 2 .launch 432 .target 23 .is_crit_valid True .ignore_guard true  .effect "Clear Guarded Target" "Push 1F"  "melina debuff b 5" "melina riposte 5" "melina speed buff 5" "Build to Crossfire"
+
+combat_skill: .id "crossfire" .level 0 .type "ranged" .atk 95% .dmg -30% .crit 15% .move 1 0 .launch 1 .target 123 .is_crit_valid True  .ignore_protection true   .effect  "Push 1B"  "melina riposte 1" "melina debuff a 1" "fake_bleed" "melina_crossfire_cooldown" "melina_crossfire_cooldown_TT" "melina debuff c 1"
+combat_skill: .id "crossfire" .level 1 .type "ranged" .atk 100% .dmg -30% .crit 16% .move 1 0 .launch 1 .target 123 .is_crit_valid True  .ignore_protection true   .effect  "Push 1C"  "melina riposte 1" "melina debuff a 2" "fake_bleed" "melina_crossfire_cooldown" "melina_crossfire_cooldown_TT" "melina debuff c 1"
+combat_skill: .id "crossfire" .level 2 .type "ranged" .atk 105% .dmg -30% .crit 17% .move 1 0 .launch 1 .target 123 .is_crit_valid True  .ignore_protection true   .effect  "Push 1D"  "melina riposte 1" "melina debuff a 3" "fake_bleed" "melina_crossfire_cooldown" "melina_crossfire_cooldown_TT" "melina debuff c 1"
+combat_skill: .id "crossfire" .level 3 .type "ranged" .atk 110% .dmg -30% .crit 18% .move 1 0 .launch 1 .target 123 .is_crit_valid True  .ignore_protection true   .effect  "Push 1E"  "melina riposte 1" "melina debuff a 4" "fake_bleed" "melina_crossfire_cooldown" "melina_crossfire_cooldown_TT" "melina debuff c 1"
+combat_skill: .id "crossfire" .level 4 .type "ranged" .atk 115% .dmg -30% .crit 19% .move 1 0 .launch 1 .target 123 .is_crit_valid True  .ignore_protection true   .effect  "Push 1F"  "melina riposte 1" "melina debuff a 5" "fake_bleed" "melina_crossfire_cooldown" "melina_crossfire_cooldown_TT" "melina debuff c 1"
+
+combat_skill: .id "kickback" .level 0 .type "melee" .atk 90% .dmg 15% .crit 8% .move 1 0 .launch 21 .target 12 .is_crit_valid True   .effect  "melina riposte 1"  "melina debuff a 1" "melina speed buff 1" "Build to Crossfire"
+combat_skill: .id "kickback" .level 1 .type "melee" .atk 95% .dmg 15% .crit 9% .move 1 0 .launch 21 .target 12 .is_crit_valid True   .effect  "melina riposte 1"  "melina debuff a 2" "melina speed buff 2" "Build to Crossfire"
+combat_skill: .id "kickback" .level 2 .type "melee" .atk 100% .dmg 15% .crit 10% .move 1 0 .launch 21 .target 12 .is_crit_valid True   .effect  "melina riposte 1" " "melina debuff a 3" "melina speed buff 3" "Build to Crossfire"
+combat_skill: .id "kickback" .level 3 .type "melee" .atk 105% .dmg 15% .crit 11% .move 1 0 .launch 21 .target 12 .is_crit_valid True   .effect  "melina riposte 1"  "melina debuff a 4" "melina speed buff 4" "Build to Crossfire"
+combat_skill: .id "kickback" .level 4 .type "melee" .atk 110% .dmg 15% .crit 12% .move 1 0 .launch 21 .target 12 .is_crit_valid True   .effect  "melina riposte 1"  "melina debuff a 5" "melina speed buff 5" "Build to Crossfire"
+
+combat_skill: .id "tracer_bullet" .level 0 .type "ranged" .atk 100% .dmg -80% .crit 0% .launch 321 .target 1234 .is_crit_valid False .ignore_stealth true  .effect "BH Mark Target" "BH Mark Debuff 1" "Destealth" "Build to Crossfire"  .is_stall_invalidating false
+combat_skill: .id "tracer_bullet" .level 1 .type "ranged" .atk 105% .dmg -80% .crit 0% .launch 321 .target 1234 .is_crit_valid False .ignore_stealth true  .effect "BH Mark Target" "BH Mark Debuff 1" "Destealth" "Build to Crossfire"  .is_stall_invalidating false
+combat_skill: .id "tracer_bullet" .level 2 .type "ranged" .atk 110% .dmg -80% .crit 0% .launch 321 .target 1234 .is_crit_valid False .ignore_stealth true  .effect "BH Mark Target" "BH Mark Debuff 1" "Destealth" "Build to Crossfire"  .is_stall_invalidating false
+combat_skill: .id "tracer_bullet" .level 3 .type "ranged" .atk 115% .dmg -80% .crit 0% .launch 321 .target 1234 .is_crit_valid False .ignore_stealth true  .effect "BH Mark Target" "BH Mark Debuff 1" "Destealth" "Build to Crossfire"  .is_stall_invalidating false
+combat_skill: .id "tracer_bullet" .level 4 .type "ranged" .atk 120% .dmg -80% .crit 0% .launch 321 .target 1234 .is_crit_valid False .ignore_stealth true  .effect "BH Mark Target" "BH Mark Debuff 1" "Destealth" "Build to Crossfire"  .is_stall_invalidating false
+
+combat_skill: .id "stimulant_pack" .level 0 .heal 3 5 .launch 4321 .target @4321 .per_battle_limit 1 .effect "stim stressheal 1" "stim stress resistance 1" "stim speed buff" "stim blight 1" 	.is_stall_invalidating false
+combat_skill: .id "stimulant_pack" .level 1 .heal 4 6 .launch 4321 .target @4321 .per_battle_limit 1 .effect "stim stressheal 2" "stim stress resistance 2" "stim speed buff" "stim blight 2" 	.is_stall_invalidating false
+combat_skill: .id "stimulant_pack" .level 2 .heal 5 7 .launch 4321 .target @4321 .per_battle_limit 2 .effect "stim stressheal 3" "stim stress resistance 3" "stim speed buff" "stim blight 3" 	.is_stall_invalidating false
+combat_skill: .id "stimulant_pack" .level 3 .heal 6 8 .launch 4321 .target @4321 .per_battle_limit 2 .effect "stim stressheal 4" "stim stress resistance 4" "stim speed buff" "stim blight 4" 	.is_stall_invalidating false
+combat_skill: .id "stimulant_pack" .level 4 .heal 7 9 .launch 4321 .target @4321 .per_battle_limit 3 .effect "stim stressheal 5" "stim stress resistance 5" "stim speed buff" "stim blight 5" 	.is_stall_invalidating false
+
+
+combat_move_skill: .id "move" .level 0 .type "move" .move 1 2 .launch 4321
+
+riposte_skill: .id "riposte1" .level 0 .type "ranged" .atk 120% .dmg -30% .crit 10% .launch 1234 .target 1234 .is_crit_valid True .ignore_protection true
+
+
+tag: .id "light"
+tag: .id "religious"
+tag: .id "outsiders_bonfire"
+tag: .id "melina"
+
+overstressed_modifier: .override_trait_type_ids deathdrive .override_trait_type_chances 1
+overstressed_modifier: .override_trait_type_ids endlessdefiance .override_trait_type_chances 1
+deaths_door: .buffs deathsdoorACCDebuff deathsdoorDMGLowDebuff deathsdoorDMGHighDebuff deathsdoorSPDDebuff deathsdoorSRDebuff .recovery_buffs mortalityACCDebuff mortalityDMGLowDebuff mortalityDMGHighDebuff mortalitySPDDebuff mortalitySRDebuff .recovery_heart_attack_buffs heartattackACCDebuff heartattackDMGLowDebuff heartattackDMGHighDebuff heartattackSPDDebuff heartattackSRDebuff
+
+controlled: .target_rank 2
+
+id_index: .index 3987
+
+skill_selection: .can_select_combat_skills true .number_of_selected_combat_skills_max 4
+
+incompatible_party_member: .id melina_limit .hero_tag melina
+
+generation: .is_generation_enabled true .number_of_positive_quirks_min 1 .number_of_positive_quirks_max 2 .number_of_negative_quirks_min 1 .number_of_negative_quirks_max 2 .number_of_class_specific_camping_skills 2 .number_of_shared_camping_skills 1 .number_of_random_combat_skills 4 .number_of_cards_in_deck 5 .card_chance 1.0
+

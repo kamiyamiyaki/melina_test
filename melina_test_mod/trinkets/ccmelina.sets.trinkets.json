@@ -1,0 +1,13 @@
+{
+   "sets":
+   [
+      {
+         "id" : "cc_melina",
+         "buffs" : 
+         [
+            "melina_TRINKET_CRIT_B2",
+            "melina_TRINKET_STRESSDEF_B2"
+         ]
+      }
+  ]
+}

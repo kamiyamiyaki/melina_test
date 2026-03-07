@@ -1,0 +1,24 @@
+{
+    "event_guid_overrides":
+    [
+        {"event_id": "event:/char/ally/initiator_angled_entry",                 "guid_override":"{524ec2e8-760a-42de-8585-09333d488f9d}"},
+        {"event_id": "event:/char/ally/initiator_angled_entry_miss",            "guid_override":"{56b0b171-f3b1-407c-b94c-e8922d2bda6e}"},
+        {"event_id": "event:/char/ally/initiator_dive_kick",                  "guid_override":"{fcf5b857-f95e-4db9-b157-9e5bca216b9a}"},
+        {"event_id": "event:/char/ally/initiator_dive_kick_miss",                  "guid_override":"{e0845e1c-4282-4c1c-8258-54baa56fdacb}"},
+        {"event_id": "event:/char/ally/initiator_crossfire",                   "guid_override":"{5db8386f-aa02-44cf-9cf7-7abb7ab4f972}"},
+        {"event_id": "event:/char/ally/initiator_crossfire_miss",                   "guid_override":"{4ea12b6d-43ab-4bb8-9f91-38b28d5fb54b}"},
+        {"event_id": "event:/char/ally/initiator_stimulant_pack",                  "guid_override":"{702b5c39-d391-4835-9e5a-fdbec356aec9}"},
+        {"event_id": "event:/char/ally/initiator_tracer_bullet",                "guid_override":"{7452d6d6-2100-4240-92a1-f298b55be6a1}"},
+        {"event_id": "event:/char/ally/initiator_tracer_bullet_miss",           "guid_override":"{f09d2f63-17d7-45f4-ac9c-b1875d65ba05}"},
+        {"event_id": "event:/char/ally/initiator_single_shot",               "guid_override":"{faf17fe9-8d4d-4dd1-814a-98194e780296}"},
+        {"event_id": "event:/char/ally/initiator_single_shot_miss",          "guid_override":"{be6ab17c-b198-4bec-9efa-bfbc0e5148f2}"},
+        {"event_id": "event:/char/ally/initiator_kickback",                     "guid_override":"{de6605c8-c2f9-4ceb-8a32-0af6424d2ce6}"},
+        {"event_id": "event:/char/ally/initiator_kickback_miss",                     "guid_override":"{e0845e1c-4282-4c1c-8258-54baa56fdacb}"},
+        {"event_id": "event:/char/ally/initiator_riposte1",                    "guid_override":"{faf17fe9-8d4d-4dd1-814a-98194e780296}"},
+        {"event_id": "event:/char/ally/initiator_riposte1_miss",               "guid_override":"{be6ab17c-b198-4bec-9efa-bfbc0e5148f2}"},
+        {"event_id": "event:/camp/skill/night_sentinel",                     "guid_override":"{61749515-54b8-4fbf-b977-a1ad24141b2a}"},
+        {"event_id": "event:/camp/skill/gun_cleaning_kit",                     "guid_override":"{3684cf86-025e-4e09-ac03-b525d0fdde6ef}"},
+        {"event_id": "event:/camp/skill/military_minoculars",               "guid_override":"{16db1af1-161c-4124-ab40-a8cfdd94f48e}"},
+        {"event_id": "event:/camp/skill/narcotic_analgesics",                         "guid_override":"{48923ed4-6395-4900-8eb2-9617217f54b5}"}
+    ]
+}

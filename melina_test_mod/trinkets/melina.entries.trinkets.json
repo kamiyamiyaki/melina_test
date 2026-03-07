@@ -1,0 +1,106 @@
+{
+   "entries":
+   [
+      {
+         "id" : "melina_common_1",
+         "buffs" : 
+         [
+            "melina_TRINKET_SPD_B2"
+         ],
+         "hero_class_requirements":
+         [
+            "melina"
+         ],
+         "rarity" : "common",
+         "price" : 7500,
+         "limit" : 1,
+         "origin_dungeon" : ""
+      },
+	   {
+         "id" : "melina_common_2",
+         "buffs" : 
+         [
+            "melina_TRINKET_DEF_B1"
+         ],
+         "hero_class_requirements":
+         [
+            "melina"
+         ],
+         "rarity" : "common",
+         "price" : 7500,
+         "limit" : 1,
+         "origin_dungeon" : ""
+      },
+      {
+         "id" : "melina_uncommon_1",
+         "buffs" : 
+         [
+            "melina_TRINKET_ACC_B1",
+            "melina_TRINKET_rangedonly_DMGL_B1",
+			"melina_TRINKET_rangedonly_DMGH_B1",
+			"melina_TRINKET_DEF_DEBUFF_B1"
+         ],
+         "hero_class_requirements":
+         [
+            "melina"
+         ],
+         "rarity" : "uncommon",
+         "price" : 10000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+      },
+      {
+         "id" : "melina_uncommon_2",
+         "buffs" : 
+         [
+            "melina_TRINKET_MAXHP_B1",
+            "melina_TRINKET_DEF_B1"
+         ],
+         "hero_class_requirements":
+         [
+            "melina"
+         ],
+         "rarity" : "uncommon",
+         "price" : 10000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+      },
+      
+      {
+         "id" : "melina_rare",
+         "buffs" : 
+         [
+            "melina_TRINKET_ACC_B2",
+            "melina_TRINKET_CRIT_B1",
+            "melina_TRINKET_STRESSDEF_B1"
+         ],
+         "hero_class_requirements":
+         [
+            "melina"
+         ],
+         "rarity" : "rare",
+         "price" : 15000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+      },
+	  {
+         "id" : "melina_very_rare",
+         "buffs" : 
+         [
+            "melina_TRINKET_HEALDONE_D1",
+            "melina_TRINKET_HEALRECEIVED_D1",
+			"melina_TRINKET_STRESSDMG_B3",
+			"melina_TRINKET_rangedonly_DMGL_B2",
+			"melina_TRINKET_rangedonly_DMGH_B2"
+         ],
+         "hero_class_requirements":
+         [
+            "melina"
+         ],
+         "rarity" : "very_rare",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+      }
+   ]
+}

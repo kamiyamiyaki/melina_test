@@ -1,0 +1,13 @@
+
+initiator.sprite.crossfire.png
+size: 750,738
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crossfire
+  rotate: false
+  xy: 2, 2
+  size: 746, 734
+  orig: 746, 734
+  offset: 0, 0
+  index: -1

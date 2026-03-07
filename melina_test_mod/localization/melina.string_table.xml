@@ -1,0 +1,887 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+
+   <entry id="hero_class_name_melina"><![CDATA[The melina]]></entry>
+    <entry id="upgrade_tree_name_melina.weapon"><![CDATA[Revolver]]></entry>
+    <entry id="upgrade_tree_name_melina.armour"><![CDATA[Combat gear]]></entry>
+    <entry id="melina_armour_0"><![CDATA[Torn combat gear]]></entry>
+    <entry id="melina_armour_1"><![CDATA[Restored combat gear]]></entry>
+    <entry id="melina_armour_2"><![CDATA[Improved combat gear]]></entry>
+    <entry id="melina_armour_3"><![CDATA[Specialized combat gear]]></entry>
+    <entry id="melina_armour_4"><![CDATA["Resolve"]]></entry>
+    <entry id="melina_weapon_0"><![CDATA[Old revolver]]></entry>
+    <entry id="melina_weapon_1"><![CDATA[Polished revolver]]></entry>
+    <entry id="melina_weapon_2"><![CDATA[Improved revolver]]></entry>
+    <entry id="melina_weapon_3"><![CDATA[Specialized revolver]]></entry>
+    <entry id="melina_weapon_4"><![CDATA["Judgement"]]></entry>
+
+    <entry id="trinket_rarity_melina"><![CDATA[The melina]]></entry>
+    <entry id="str_inventory_title_trinketmelina_common_1"><![CDATA[Speed loader]]></entry>
+    <entry id="str_inventory_title_trinketmelina_common_2"><![CDATA[Dog tag]]></entry>
+	<entry id="str_inventory_title_trinketmelina_uncommon_1"><![CDATA[Improved holster]]></entry>
+	<entry id="str_inventory_title_trinketmelina_uncommon_2"><![CDATA[Knee pad]]></entry>
+	<entry id="str_inventory_title_trinketmelina_rare"><![CDATA[Customized cylinder]]></entry>
+	<entry id="str_inventory_title_trinketmelina_very_rare"><![CDATA[Bureau shoulder insignia]]></entry>
+	<entry id="str_inventory_title_trinketmelina_trinket_cc_1"><![CDATA[Someone's dog tag]]></entry>
+	<entry id="str_inventory_title_trinketmelina_trinket_cc_2"><![CDATA[Lost memories]]></entry>
+	<entry id="str_inventory_title_trinketmelina_com"><![CDATA[Luminous flashlight]]></entry>
+    <entry id="str_inventory_set_title_cc_melina"><![CDATA[The girl I loved so very, very much...]]></entry>
+
+	
+	<entry id="str_affliction_name_deathdrive"><![CDATA[Death drive]]></entry>
+	<entry id="str_virtue_name_endlessdefiance"><![CDATA[Unrelenting defiance]]></entry>
+    <entry id="combat_skill_name_melina_single_shot"><![CDATA[Single shot]]></entry>
+    <entry id="combat_skill_name_melina_angled_entry"><![CDATA[Angled entry]]></entry>
+    <entry id="combat_skill_name_melina_dive_kick"><![CDATA[Dive kick]]></entry>
+    <entry id="combat_skill_name_melina_crossfire"><![CDATA[Crossfire]]></entry>
+    <entry id="combat_skill_name_melina_kickback"><![CDATA[Kickback]]></entry>
+    <entry id="combat_skill_name_melina_tracer_bullet"><![CDATA[Tracing bullet]]></entry>
+    <entry id="combat_skill_name_melina_stimulant_pack"><![CDATA[Battle stimulants]]></entry>
+    <entry id="combat_skill_name_melina_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_melina.single_shot"><![CDATA[Single shot]]></entry>
+    <entry id="upgrade_tree_name_melina.angled_entry"><![CDATA[Angled entry]]></entry>
+    <entry id="upgrade_tree_name_melina.dive_kick"><![CDATA[Dive kick]]></entry>
+    <entry id="upgrade_tree_name_melina.crossfire"><![CDATA[Crossfire]]></entry>
+    <entry id="upgrade_tree_name_melina.kickback"><![CDATA[Kickback]]></entry>
+    <entry id="upgrade_tree_name_melina.tracer_bullet"><![CDATA[Tracer bullet]]></entry>
+    <entry id="upgrade_tree_name_melina.stimulant_pack"><![CDATA[Battle stimulants]]></entry>
+    <entry id="camping_skill_name_night_sentinel"><![CDATA[Night vigil]]></entry>
+    <entry id="camping_skill_name_gun_cleaning_kit"><![CDATA[Gun cleaning kit]]></entry>
+    <entry id="camping_skill_name_narcotic_analgesics"><![CDATA[Narcotic analgesics]]></entry>
+    <entry id="camping_skill_name_military_minoculars"><![CDATA[Military-grade binoculars]]></entry>
+	
+    <entry id="buff_rule_data_tooltip_dive_kick"><![CDATA[Dive kick]]></entry>
+    <entry id="buff_rule_data_tooltip_angled_entry"><![CDATA[Angled entry]]></entry>
+    <entry id="buff_rule_data_tooltip_single_shot"><![CDATA[Single shot]]></entry>
+    <entry id="buff_rule_tooltip_skill_false"><![CDATA[%s Exclude:%s]]></entry>
+    <entry id="buff_rule_data_tooltip_crossfire"><![CDATA[Crossfire]]></entry>
+    <entry id="buff_rule_data_tooltip_melina"><![CDATA[The melina]]></entry>
+    <entry id="buff_rule_data_tooltip_kickback"><![CDATA[Kickback]]></entry>
+    <entry id="buff_rule_data_tooltip_stimulant_pack"><![CDATA[Battle stimulants]]></entry>
+    <entry id="buff_rule_data_tooltip_riposte1"><![CDATA[Riposte]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[%d damage]]></entry>
+    <entry id="skill_performer_hp_min"><![CDATA[If above %d%% health]]></entry>
+    <entry id="action_verbose_body_guild_melina"><![CDATA[The melina weaves and ripostes through enemy attacks with her deft steps and skillful strikes.]]></entry>
+    <entry id="action_verbose_body_blacksmith_melina"><![CDATA[Like umblemished military uniform, the melina puts practicality at the top of her list. The two revolvers that stay at her sides are lightweight yet reliable, standing ready at all times.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_melina"><![CDATA[The melina comes second to none when it comes to camping. She sacrifices her sleep to stand guard, checks nearby surroundings with her binoculars, and sometimes uses narcotics to keep fear away from her allies.]]></entry>
+    <entry id="town_event_title_first_melina"><![CDATA[The Empire's Vanguard]]></entry>
+    <entry id="town_event_title_bonus_recruit_melina"><![CDATA[The Empire's Vanguard]]></entry>
+    <entry id="town_event_description_first_melina"><![CDATA[A wolf-like woman knocked on the door to the hamlet, cleaned of the scent of blood. ]]></entry>
+    <entry id="town_event_description_bonus_recruit_melina"><![CDATA[A wolf-like woman knocked on the door to the hamlet, cleaned of the scent of blood.]]></entry>
+	
+    <entry id="str_bark_night_sentinel"><![CDATA[I'll stand guard today.]]></entry>
+    <entry id="str_bark_night_sentinel"><![CDATA[Feel free to sleep, everyone. I'll be standing guard.]]></entry>
+    <entry id="str_bark_gun_cleaning_kit"><![CDATA[...you've been through a lot.]]></entry>
+    <entry id="str_bark_gun_cleaning_kit"><![CDATA[...you'll be good as new soon.]]></entry>
+    <entry id="str_bark_narcotic_analgesics"><![CDATA[Well, it's better than dying.]]></entry>
+    <entry id="str_bark_narcotic_analgesics"><![CDATA[You'll feel good real soon. Good night, sweetheart.]]></entry>
+    <entry id="str_bark_military_minoculars"><![CDATA[Starting a scouting mission.]]></entry>
+    <entry id="str_bark_military_minoculars"><![CDATA[Ease up a little, lads. I'll be scouting ahead.]]></entry>
+    <entry id="melina+str_afflicted_deathdrive"><![CDATA[Right. Let's carry on with whatever I have left.]]></entry>
+    <entry id="melina+str_afflicted_deathdrive"><![CDATA[What is a life full of losses worth?]]></entry>
+    <entry id="melina+str_afflicted_deathdrive"><![CDATA[I should have died instead of her...!]]></entry>
+    <entry id="melina+str_afflicted_deathdrive"><![CDATA[Even with all the blood shed, it proves nothing...]]></entry>
+    <entry id="melina+str_virtued_endlessdefiance"><![CDATA[I don't want to lose anyone ever again.]]></entry>
+    <entry id="melina+str_virtued_endlessdefiance"><![CDATA[We can go on. Commencing battle.]]></entry>
+    <entry id="melina+str_virtued_endlessdefiance"><![CDATA[I can't fall like this. My fight isn't over yet.]]></entry>
+    <entry id="melina+str_virtued_endlessdefiance"><![CDATA[We will break their ranks! Follow my lead!]]></entry>
+    <entry id="melina+str_stress_heal_self_endlessdefiance"><![CDATA[I wouldn' be able to face her if I die here.]]></entry>
+    <entry id="melina+str_stress_heal_self_endlessdefiance"><![CDATA[I'll struggle till the very end! I'd hate to die at a place like this!]]></entry>
+    <entry id="melina+str_stress_heal_party_endlessdefiance"><![CDATA[No need for fear. The only ones falling here are them.]]></entry>
+    <entry id="melina+str_stress_heal_party_endlessdefiance"><![CDATA[If it bleeds, we can kill it. The same goes for bullets.]]></entry>
+    <entry id="melina+str_buff_random_party_member_endlessdefiance"><![CDATA[No need to think too deep-you attack, the enemies fall. That's all.]]></entry>
+    <entry id="melina+str_buff_random_party_member_endlessdefiance"><![CDATA[Don't think about anything else. Keep your mind on felling the enemy before you.]]></entry>
+    <entry id="melina+str_heal_self_endlessdefiance"><![CDATA[Huff...it's still doable.]]></entry>
+    <entry id="melina+str_heal_self_endlessdefiance"><![CDATA[There's still things I have to do.]]></entry>
+	
+    <entry id="melina+str_bark_stress_deathdrive"><![CDATA[A life without her is...]]></entry>
+    <entry id="melina+str_bark_stress_deathdrive"><![CDATA[Everyone dies. There's no exception to that.]]></entry>
+    <entry id="melina+str_bark_stress_deathdrive"><![CDATA[If I die like this, maybe I can get some peace of mind...]]></entry>
+    <entry id="melina+str_bark_stress_deathdrive"><![CDATA[We may live today, but there's no guarentee that it'll be the same tomorrow.]]></entry>
+    <entry id="melina+str_bark_stress_deathdrive"><![CDATA[If I died back then, I wouldn't be suffering like this...]]></entry>
+    <entry id="melina+str_bark_stress_camp_deathdrive"><![CDATA[It seems like an inadequate choice to rest right now.]]></entry>
+    <entry id="melina+str_bark_stress_camp_deathdrive"><![CDATA[We're not on a field trip.]]></entry>
+    <entry id="melina+str_bark_stress_camp_deathdrive"><![CDATA[Even if we scrape by, day by day, eventually we'll...]]></entry>
+    <entry id="melina+str_mark_self_deathdrive"><![CDATA[I'll catch their eyes. After all, a half-assed life isn't worth living.]]></entry>
+    <entry id="melina+str_mark_self_deathdrive"><![CDATA[Go on, aim at me!]]></entry>
+    <entry id="melina+str_mark_self_deathdrive"><![CDATA[I'll take your place.]]></entry>
+    <entry id="melina+str_attack_self_deathdrive"><![CDATA[What's left for me after all this fighting?]]></entry>
+    <entry id="melina+str_attack_self_deathdrive"><![CDATA[*Menacing Growl*]]></entry>
+    <entry id="melina+str_block_combat_retreat_deathdrive"><![CDATA[No, I will stay here.]]></entry>
+    <entry id="melina+str_block_combat_retreat_deathdrive"><![CDATA[My fight isn't over yet.]]></entry>
+    <entry id="melina+str_block_combat_retreat_deathdrive"><![CDATA[Ha, leave me to my fate if you want to retreat.]]></entry>
+    <entry id="melina+str_comment_self_hit_deathdrive"><![CDATA[Erk...! Dammit! This is why you couldn't save her back then, you useless bitch!]]></entry>
+    <entry id="melina+str_comment_self_hit_deathdrive"><![CDATA[Finally, we can meet again....]]></entry>
+    <entry id="melina+str_comment_self_missed_deathdrive"><![CDATA[*Rough breathing* Are you still afraid of dying? Hm? *Continues ruminating*]]></entry>
+    <entry id="melina+str_comment_self_missed_deathdrive"><![CDATA[Damn it! I could've been free!]]></entry>
+    <entry id="melina+str_comment_ally_attack_hit_deathdrive"><![CDATA[Why don't you flee? No need to stand out like that.]]></entry>
+    <entry id="melina+str_comment_ally_attack_hit_deathdrive"><![CDATA[You want to die with me? Move your ass to the back!]]></entry>
+    <entry id="melina+str_comment_ally_attack_hit_deathdrive"><![CDATA[*Menacing Growl*]]></entry>
+    <entry id="melina+str_comment_ally_attack_missed_deathdrive"><![CDATA[Flee if you know what's good for ya.]]></entry>
+    <entry id="melina+str_comment_ally_attack_missed_deathdrive"><![CDATA[Go home if you're not prepared for the battlefield.]]></entry>
+    <entry id="melina+str_comment_ally_missed_deathdrive"><![CDATA[Hah, you think you'll be as lucky next time? Count your prayers.]]></entry>
+    <entry id="melina+str_comment_ally_missed_deathdrive"><![CDATA[You're fine this time, but when it happens again....]]></entry>
+    <entry id="melina+str_comment_ally_hit_deathdrive"><![CDATA[It's happening! Somebody's going to die again!]]></entry>
+    <entry id="melina+str_comment_ally_hit_deathdrive"><![CDATA[Everyone's drawn to the dark-like moths to a flame, knowing full well they'll die.]]></entry>
+    <entry id="melina+str_comment_ally_hit_deathdrive"><![CDATA[Hah, seeing that you're stepping out of line, I can assure you that you won't live for much longer.]]></entry>
+    <entry id="melina+str_block_move_deathdrive"><![CDATA[That is not a suitable command.]]></entry>
+    <entry id="melina+str_block_move_deathdrive"><![CDATA[This is our best choice.]]></entry>
+    <entry id="melina+str_block_item_deathdrive"><![CDATA[I will not use something that has not been verified.]]></entry>
+    <entry id="melina+str_block_item_deathdrive"><![CDATA[You expect me to use non-military grade supplies?]]></entry>
+    <entry id="melina+str_block_heal_deathdrive"><![CDATA[I don't need it.]]></entry>
+    <entry id="melina+str_block_heal_deathdrive"><![CDATA[I don't deserve it.]]></entry>
+    <entry id="melina+str_block_heal_deathdrive"><![CDATA[*Growls*]]></entry>
+    <entry id="melina+str_block_buff_deathdrive"><![CDATA[It's all meaningless.]]></entry>
+    <entry id="melina+str_block_buff_deathdrive"><![CDATA[That's too good for me.]]></entry>
+    <entry id="melina+str_ignore_command_deathdrive"><![CDATA[That's not tactically feasible.]]></entry>
+    <entry id="melina+str_ignore_command_deathdrive"><![CDATA[I can't follow that order.]]></entry>
+    <entry id="melina+str_random_command_deathdrive"><![CDATA[Everyone's bound to die anyways...!]]></entry>
+	<entry id="melina+str_random_command_deathdrive"><![CDATA[It's my funeral!]]></entry>
+    <entry id="melina+str_comment_trap_triggered_deathdrive"><![CDATA[Fuck! I should've seen that coming! Stupid bitch!]]></entry>
+	<entry id="melina+str_comment_trap_triggered_deathdrive"><![CDATA[I should've figured this would be here! Idiot sandwich!]]></entry>
+	<entry id="melina+str_comment_curio_interaction_deathdrive"><![CDATA[Don't you dare touch these things without my command from now on.]]></entry>
+	<entry id="melina+str_comment_curio_interaction_deathdrive"><![CDATA[You DARE touch that?! You don't even know what it could possibly do!]]></entry>
+	<entry id="melina+str_comment_curio_interaction_deathdrive"><![CDATA[*Menacing Growl*]]></entry>
+
+
+    <entry id="melina+str_critbyhero"><![CDATA[Hey, you look like you're out of breath.]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[Saved some ammo for later!]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[Who's the next in line?]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[It's almost a waste to use bullets on you.]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[A poor display from you.]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[*Happy purring*]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[That should hurt!]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[Fufu. Now this is it!]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[No need to nag. You'll all have your turns.]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[Your weaknesses show through!]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[You have yet to see me attack, no?]]></entry>
+    <entry id="melina+str_bark_encourage"><![CDATA[You'll be back alive and well. Don't fret over it.]]></entry>
+    <entry id="melina+str_bark_encourage"><![CDATA[Worry not. It's all going according to plan.]]></entry>
+    <entry id="melina+str_bark_encourage"><![CDATA[If we act as planned, there won't be much in our way.]]></entry>
+    <entry id="melina+str_bark_first_aid"><![CDATA[Hang on, show me your wounds.]]></entry>
+    <entry id="melina+str_bark_first_aid"><![CDATA[First aid is mandatory in all the training regimens for good reason.]]></entry>
+    <entry id="melina+str_bark_first_aid"><![CDATA[This wound will close soon.]]></entry>
+    <entry id="melina+str_bark_pep_talk"><![CDATA[Everything will go smoothly today, at the very least.]]></entry>
+    <entry id="melina+str_bark_pep_talk"><![CDATA[I'll teach you a breathing technique if you're feeling anxious. There's training for all kinds of things.]]></entry>
+    <entry id="melina+str_bark_pep_talk"><![CDATA[It's all going according to plan. Till now, at least.]]></entry>
+    <entry id="melina+str_bark_hobby"><![CDATA[Of all the days...Ruby, why do I miss you more today?]]></entry>
+    <entry id="melina+str_bark_hobby"><![CDATA[*Sounds of checking ammo. The ammo gives off a nice sound.*]]></entry>
+    <entry id="melina+str_bark_hobby"><![CDATA[(Looks at someone else's dog tag.)]]></entry>
+
+	<entry id="melina+str_bark_deathsdoor"><![CDATA[Erk...I can't fall like this...!]]></entry>
+	<entry id="melina+str_bark_deathsdoor"><![CDATA[Gah...this is not looking good.]]></entry>
+	<entry id="melina+str_bark_deathsdoor"><![CDATA[Shit...!]]></entry>
+	<entry id="melina+str_bark_deathsdoor"><![CDATA[*Rough Growl*]]></entry>
+
+
+    <entry id="melina+str_override_invalid_rejection"><![CDATA[I won't need it.]]></entry>
+    <entry id="melina+str_override_invalid_rejection"><![CDATA[It won't work.]]></entry>
+    <entry id="melina+str_override_invalid_rejection"><![CDATA[I said I don't need it.]]></entry>
+	
+    <entry id="str_melina_bar_rejection"><![CDATA[...drinks blur the mind.]]></entry>
+    <entry id="str_melina_gambling_rejection"><![CDATA[I'm not interested in rolling the dice.]]></entry>
+    <entry id="str_melina_brothel_rejection"><![CDATA[...are you kidding me?]]></entry>
+    <entry id="str_melina_prayer_rejection"><![CDATA[...I tend not to believe in gods.]]></entry>
+    <entry id="str_melina_flagellation_rejection"><![CDATA[How unciviliz...ehem, excuse me.]]></entry>
+    <entry id="melina+str_block_camping_skill_performer_deathdrive"><![CDATA[I...can't take it anymore...]]></entry>
+    <entry id="melina+str_block_camping_skill_performer_deathdrive"><![CDATA[......]]></entry>
+    <entry id="melina+str_block_camping_skill_performer_deathdrive"><![CDATA[...I cannot comply.]]></entry>
+    <entry id="melina+str_block_camping_skill_target_deathdrive"><![CDATA[Use it on yourself.]]></entry>
+    <entry id="melina+str_block_camping_skill_target_deathdrive"><![CDATA[...leave me be.]]></entry>
+    <entry id="melina+str_block_camping_skill_target_deathdrive"><![CDATA[...no need for that.]]></entry>
+    <entry id="melina+str_block_camping_meal_deathdrive"><![CDATA[I'm fine with my portion. Share it with the others.]]></entry>
+    <entry id="melina+str_block_camping_meal_deathdrive"><![CDATA[...I don't deserve to eat.]]></entry>
+    <entry id="melina+str_block_camping_meal_deathdrive"><![CDATA[...damn.]]></entry>
+    <entry id="str_incompatible_party_member_melina_limit"><![CDATA[A tactically meaningless plan.]]></entry>
+    <entry id="str_incompatible_party_member_melina_limit"><![CDATA[I cannot follow your orders.]]></entry>
+	
+	<entry id="melina+str_control_before_turn_siren"><![CDATA[Ruby? Is that you, ruby?]]></entry>
+	<entry id="melina+str_control_before_turn_siren"><![CDATA[This time, I'll be protecting you!]]></entry>
+	<entry id="melina+str_combat_knockback"><![CDATA[Guh..! What brute strength..!]]></entry>
+	<entry id="melina+str_prisoner_damage_cauldron_full"><![CDATA[Aaah! Shit! You uncivilized psycho!]]></entry>
+	<entry id="melina+str_prisoner_damage_cauldron_full"><![CDATA[Damn! I can't hold on for much longer!]]></entry>
+	<entry id="melina+str_prisoner_damage_cauldron_full"><![CDATA[Get me out!]]></entry>
+	<entry id="melina+str_control_return_siren"><![CDATA[...!! I am sorry! Damn, playing petty tricks on me...!]]></entry>
+	<entry id="melina+str_control_return_siren"><![CDATA[My head...my head feels all fuzzy.]]></entry>
+	<entry id="melina+str_prisoner_damage_drowned_anchored"><![CDATA[Erp...I can't breathe..!]]></entry>
+	<entry id="melina+str_prisoner_damage_drowned_anchored"><![CDATA[Shit, it's heavy...! I can't break out!]]></entry>
+	<entry id="melina+str_combat_wastingtime"><![CDATA[You waste your orders like THIS?!]]></entry>
+	<entry id="melina+str_monster_attack_obliterate_enraged"><![CDATA[That fatty doesn't look happy...!]]></entry>
+	<entry id="melina+str_monster_attack_light_fuse"><![CDATA[Shit! Brace for impact!]]></entry>
+	<entry id="melina+str_monster_attack_prophet_mark"><![CDATA[Wait, can't you guys hear something from the ceiling?]]></entry>
+	<entry id="melina+str_monster_attack_prophet_mark"><![CDATA[...! I have a bad feeling about this..!]]></entry>
+  <entry id="melina+str_monster_user_selected_targets_kill_pill"><![CDATA[...I'm coming, Ruby...]]></entry>
+
+    <entry id="melina+egg_increment_bark_1"><![CDATA[I have a bad feeling about this...]]></entry>
+    <entry id="melina+egg_increment_bark_2"><![CDATA[Hrm...]]></entry>
+    <entry id="melina+str_bark_shuffled"><![CDATA[Dammit! Everyone, return to your ranks!]]></entry>
+	
+    <entry id="melina+quirk_evolution_death_disease_vampire_wasting"><![CDATA[Getting so weak...from something like this...]]></entry>
+    <entry id="melina+quirk_transition_disease_vampire_blood_lust_to_disease_vampire_passive"><![CDATA[*Shakes head*...much better now...]]></entry>
+    <entry id="melina+quirk_transition_disease_vampire_crave_to_disease_vampire_blood_lust"><![CDATA[*Sigh of relief*...Now this is more like it!]]></entry>
+	<entry id="melina+quirk_transition_disease_vampire_crave_to_disease_vampire_blood_lust"><![CDATA[Pwah...! Finally, some relief!]]></entry>
+    <entry id="melina+quirk_transition_disease_vampire_crave_to_disease_vampire_wasting"><![CDATA[Darn, the thirst..I'm so thirsty...I need the blood...!]]></entry>
+    <entry id="melina+quirk_transition_disease_vampire_passive_to_disease_vampire_crave"><![CDATA[Damn it, my thirst for the blood only gets worse...]]></entry>
+    <entry id="melina+quirk_transition_disease_vampire_wasting_to_disease_vampire_passive"><![CDATA[Haah...now I can breathe easy again.]]></entry>	
+	<entry id="melina+str_attack_friendly_disease_vampire_blood_lust"><![CDATA[AHAHA! OUT OF MY WAY! YOU'RE ALL JUST NUISANCES!]]></entry>
+    <entry id="melina+str_attack_friendly_disease_vampire_crave"><![CDATA[Get away from me!]]></entry>
+    <entry id="melina+str_attack_friendly_disease_vampire_wasting"><![CDATA[Damn it...! Get your ass away from me!]]></entry>
+    <entry id="melina+str_bark_stress_disease_vampire_blood_lust"><![CDATA[AHAHAHAHA! I HAVEN'T BEEN THIS HAPPY IN A LONG TIME!]]></entry>
+    <entry id="melina+str_bark_stress_disease_vampire_crave"><![CDATA[I'm losing my mind! I swear I'm not a vampire!]]></entry>	
+    <entry id="melina+str_bark_stress_disease_vampire_wasting"><![CDATA[*Wipes drooling mouth*...shit.]]></entry>
+    <entry id="melina+str_block_buff_disease_vampire_blood_lust"><![CDATA[DON'T STOP ME NOW! I'M HAVING A GOOD TIME!]]></entry>
+    <entry id="melina+str_block_buff_disease_vampire_crave"><![CDATA[Don't touch me, damn it!]]></entry>
+    <entry id="melina+str_block_buff_disease_vampire_wasting"><![CDATA[I don't need anything else, just the blood, please...!]]></entry>	
+    <entry id="melina+str_block_camping_meal_disease_vampire_crave"><![CDATA[You think that'll satiisfy my cravings?]]></entry>
+    <entry id="melina+str_block_camping_meal_disease_vampire_wasting"><![CDATA[*Growls*]]></entry>
+    <entry id="melina+str_block_combat_retreat_disease_vampire_blood_lust"><![CDATA[HA! NO NEED FOR THAT! KILL THEM AND TAKE THIR BLOOD!]]></entry>
+    <entry id="melina+str_block_heal_disease_vampire_blood_lust"><![CDATA[Damn it, you're going to slow my bloodlust! Stop it!]]></entry>	
+    <entry id="melina+str_block_heal_disease_vampire_crave"><![CDATA[Not now.]]></entry>
+    <entry id="melina+str_block_heal_disease_vampire_wasting"><![CDATA[The thirst is too much...]]></entry>	
+    <entry id="melina+str_block_move_disease_vampire_wasting"><![CDATA[*Breathes heavily*]]></entry>
+    <entry id="melina+str_change_pos_fwd_disease_vampire_blood_lust"><![CDATA[OUT OF MY WAY! I SMELL BLOOD THERE!]]></entry>
+    <entry id="melina+str_change_pos_fwd_disease_vampire_crave"><![CDATA[...I smell blood over there.]]></entry>	
+	<entry id="melina+str_comment_ally_hit_disease_vampire_blood_lust"><![CDATA[DARN! THAT MUST HURT! LET ME LICK YOUR WOUNDS LATER!]]></entry>
+    <entry id="melina+str_comment_ally_hit_disease_vampire_crave"><![CDATA[...your blood doesn't smell all that bad.]]></entry>
+    <entry id="melina+str_comment_curio_interaction_disease_vampire_crave"><![CDATA[I swear I smelt blood.]]></entry>
+    <entry id="melina+str_comment_curio_interaction_disease_vampire_wasting"><![CDATA[...]]></entry>	
+    <entry id="melina+str_comment_trap_triggered_disease_vampire_crave"><![CDATA[No...the sacred blood..]]></entry>	
+    <entry id="melina+str_comment_trap_triggered_disease_vampire_wasting"><![CDATA[*Breathes heavily*]]></entry>
+    <entry id="melina+str_ignore_command_disease_vampire_blood_lust"><![CDATA[NOPE! I DO WHAT I WANT!]]></entry>
+    <entry id="melina+str_ignore_command_disease_vampire_crave"><![CDATA[That doesn't seem like a good decision.]]></entry>
+    <entry id="melina+str_ignore_command_disease_vampire_wasting"><![CDATA[*Growls*]]></entry>
+    <entry id="melina+str_random_command_disease_vampire_blood_lust"><![CDATA[AHAHAHA! KILL THEM ALL! BLOOD FOR THE BLOOD GOD!]]></entry>
+    <entry id="melina+str_stagecoach_roster_limit_quirk_full_rejection"><![CDATA[Hey, do you really not have space for me?]]></entry>
+    <entry id="melina+str_bark_deathsdoor_ally"><![CDATA[Damn it, don't die on me!]]></entry>
+    <entry id="melina+str_bark_deathsdoor_ally"><![CDATA[Any medics nearby?!]]></entry>
+    <entry id="melina+str_bark_deathsdoorsurvive"><![CDATA[I can't die now!]]></entry>
+    <entry id="melina+str_bark_deathsdoorsurvive"><![CDATA[Ow...It's not over yet!]]></entry>
+    <entry id="melina+str_bark_deathsdoorsurvive"><![CDATA[*Rough growling*]]></entry>
+    <entry id="melina+str_bark_poisondot"><![CDATA[My veins feel like it's on fire..!]]></entry>
+    <entry id="melina+str_bark_poisondot"><![CDATA[Is there no antivenom left?]]></entry>
+    <entry id="melina+str_bark_poisondot"><![CDATA[Haah...my heart feels like it's bursting.]]></entry>
+    <entry id="melina+str_bark_bleeddot"><![CDATA[I'm bleeding...darn.]]></entry>	
+    <entry id="melina+str_bark_bleeddot"><![CDATA[Are there no torniquets around here?]]></entry>	
+    <entry id="melina+str_bark_bleeddot"><![CDATA[*Growls*]]></entry>	
+
+    <entry id="melina+str_bark_curiogood"><![CDATA[Now this is the oasis in the batlefield.]]></entry>
+    <entry id="melina+str_bark_curiogood"><![CDATA[*Purrs happily*]]></entry>
+    <entry id="melina+str_bark_curiogood"><![CDATA[There's light to be found, even here, in the dark.]]></entry>
+    <entry id="melina+str_bark_curiobad"><![CDATA[Shit. Shouldn't have touched that.]]></entry>
+    <entry id="melina+str_bark_curiobad"><![CDATA[No..!]]></entry>
+    <entry id="melina+str_bark_curiobad"><![CDATA[*Growls*]]></entry>
+    <entry id="melina+str_bark_curiomeh"><![CDATA[Fuck me.]]></entry>
+    <entry id="melina+str_bark_curiomeh"><![CDATA[Well, nothing is better than something happening.]]></entry>
+    <entry id="melina+str_bark_curiomeh"><![CDATA[*Sighs*]]></entry>
+    <entry id="melina+str_bar_committed"><![CDATA[So what's the strongest drink around here? Gimme that.]]></entry>
+	<entry id="melina+str_bar_committed"><![CDATA[Give me the whole bottle. I have much to forget...]]></entry>
+    <entry id="melina+str_gambling_committed"><![CDATA[Play any tricks, and you won't live to tell the tale.]]></entry>	
+    <entry id="melina+str_gambling_committed"><![CDATA[Gambling...maybe I should loosen up a little.]]></entry>	
+	<entry id="melina+str_brothel_committed"><![CDATA[*Purrs*]]></entry>	
+	<entry id="melina+str_brothel_committed"><![CDATA[You over there. Yeah, you. You're looking mighty fine. Come with me.]]></entry>	
+	<entry id="melina+str_brothel_committed"><![CDATA[Bring me the finest girl here. Even better if they have long hair.]]></entry>	
+    <entry id="melina+str_meditation_committed"><![CDATA[Hah...I suppose I could use some time to think.]]></entry>
+    <entry id="melina+str_meditation_committed"><![CDATA[The silence isn't all that bad.]]></entry>
+    <entry id="melina+str_prayer_committed"><![CDATA[Believer or not, you will find reasons to pray.]]></entry>	
+    <entry id="melina+str_prayer_committed"><![CDATA[I pray for myself.]]></entry>	
+    <entry id="melina+str_prayer_committed"><![CDATA[*Small purring*]]></entry>	
+    <entry id="melina+str_flagellation_committed"><![CDATA[This kind of...uncilized behavior-ehem, excuse me. Doeos this really make me feel better]]></entry>
+    <entry id="melina+str_flagellation_committed"><![CDATA[I don't have this kind of kink. ...what? What do you mean blasphemy?]]></entry>
+    <entry id="melina+str_treatment_committed"><![CDATA[Hey, hang on. Is that proper medicine? Why are you tying my hands?!]]></entry>
+    <entry id="melina+str_treatment_committed"><![CDATA[You can't just just remedy things that aren't properly proven to be safe!]]></entry>
+    <entry id="melina+str_treatment_committed"><![CDATA[*Anxious growling*]]></entry>
+    <entry id="melina+str_disease_treatment_committed"><![CDATA[Wait, do you even know what "Sanitation" means?]]></entry>
+    <entry id="melina+str_disease_treatment_committed"><![CDATA[Don't touch my wound with your bare hands! What's with the hook?!]]></entry>
+    <entry id="melina+str_disease_treatment_committed"><![CDATA[*Aggresive growling*]]></entry>
+    <entry id="melina+str_alcoholism_gambling_rejection"><![CDATA[Gah, give me a drink already.]]></entry>
+    <entry id="melina+str_alcoholism_brothel_rejection"><![CDATA[I don't need prostitutes, I need a beer!]]></entry>
+    <entry id="melina+str_alcoholism_meditation_rejection"><![CDATA[You dare trap me in a place like this!]]></entry>
+    <entry id="melina+str_alcoholism_prayer_rejection"><![CDATA[God did nothing to help me before, but this drink will help with my thirst.]]></entry>
+    <entry id="melina+str_alcoholism_flagellation_rejection"><![CDATA[...jesus, it's so disgusting.]]></entry>	
+    <entry id="melina+str_gambler_bar_rejection"><![CDATA[Hey, you know there's better things up there.]]></entry>
+    <entry id="melina+str_gambler_meditation_rejection"><![CDATA[What do you expect me to do here, of all places?]]></entry>
+    <entry id="melina+str_gambler_prayer_rejection"><![CDATA[Prayers are for the weak.]]></entry>
+    <entry id="melina+str_gambler_flagellation_rejection"><![CDATA[I have no interest in S&M.]]></entry>
+    <entry id="melina+str_love_interest_bar_rejection"><![CDATA[Drinks aren't bad, but ladies? That's where the cash is.]]></entry>
+    <entry id="melina+str_love_interest_gambling_rejection"><![CDATA[Not here. Juuust past the door and to the brothel...hm?]]></entry>
+    <entry id="melina+str_love_interest_meditation_rejection"><![CDATA[*Dissastisfied growl*]]></entry>
+    <entry id="melina+str_love_interest_prayer_rejection"><![CDATA[You can't possibly believe in a god.]]></entry>
+    <entry id="melina+str_love_interest_flagellation_rejection"><![CDATA[Provided you have a girl come in with me.]]></entry>
+    <entry id="melina+str_enlightened_bar_rejection"><![CDATA[The drink hazes the mind.]]></entry>
+    <entry id="melina+str_enlightened_gambling_rejection"><![CDATA[I have no interest in dice.]]></entry>
+    <entry id="melina+str_enlightened_brothel_rejection"><![CDATA[You telling me to kiss a prostitute?]]></entry>
+    <entry id="melina+str_enlightened_prayer_rejection"><![CDATA[I need somewhere more quiet.]]></entry>
+    <entry id="melina+str_enlightened_flagellation_rejection"><![CDATA[Look-we all have our kinks. But this isn't for me.]]></entry>
+    <entry id="melina+str_god_fearing_bar_rejection"><![CDATA[Alcohol blinds judgement.]]></entry>
+    <entry id="melina+str_god_fearing_gambling_rejection"><![CDATA[Nope. You guys have your fun.]]></entry>
+    <entry id="melina_str_god_fearing_brothel_rejection"><![CDATA[*Sighs deeply*]]></entry>
+    <entry id="melina+str_god_fearing_meditation_rejection"><![CDATA[The room below. It's time to send our prayers.]]></entry>
+    <entry id="melina+str_god_fearing_flagellation_rejection"><![CDATA[Not now. I wish to pray.]]></entry>
+    <entry id="melina+str_flagellant_bar_rejection"><![CDATA[Ha...not now.]]></entry>
+    <entry id="melina+str_flagellant_gambling_rejection"><![CDATA[I'm not interested.]]></entry>
+    <entry id="melina+str_flagellant_brothel_rejection"><![CDATA[*Sighs deeply*]]></entry>
+    <entry id="melina+str_flagellant_meditation_rejection"><![CDATA[Uh...I think we got the wrong door. The leather club's two rooms down.]]></entry>
+    <entry id="melina+str_flagellant_prayer_rejection"><![CDATA[...Is the room next to us ready for use?]]></entry>
+    <entry id="melina+str_resolution_bar_rejection"><![CDATA[I'll be fine without a drink.]]></entry>	
+    <entry id="melina+str_known_cheat_gambling_rejection"><![CDATA[Ehem...I got a bit too invested last time.]]></entry>
+    <entry id="melina+str_deviant_tastes_brothel_rejection"><![CDATA[(Sad purr)]]></entry>
+    <entry id="melina+str_unquiet_mind_meditation_rejection"><![CDATA[I don't like a silent place like this.]]></entry>
+    <entry id="melina+str_witness_prayer_rejection"><![CDATA[These prayers aren't worth shit. It doesn't help you live longer.]]></entry>
+    <entry id="melina+str_faithless_prayer_rejection"><![CDATA[You guys can do the praying.]]></entry>
+    <entry id="melina+str_faithless_flagellation_rejection"><![CDATA[You think this kinky stuf is for me?]]></entry>
+    <entry id="melina+str_stagecoach_idle"><![CDATA[I'm sure you need militaristic help. Even just a vanguard might help.]]></entry>
+    <entry id="melina+str_stagecoach_idle"><![CDATA[I can lead the charge. How does that sound?]]></entry>
+    <entry id="melina+str_stagecoach_idle"><![CDATA[*Small growl*]]></entry>
+
+    <entry id="melina+str_roster_list_deathdrive_bark"><![CDATA[I should've...should've died back then...]]></entry>	
+    <entry id="melina+str_roster_list_deathdrive_bark"><![CDATA[Again, I've managed to live again...]]></entry>	
+    <entry id="melina+str_roster_list_deathdrive_bark"><![CDATA[*Anxious breaths*]]></entry>	
+    <entry id="melina+str_roster_list_low_stress_bark"><![CDATA[Ready for battle. I'm prepared to deploy at any time.]]></entry>
+    <entry id="melina+str_roster_list_low_stress_bark"><![CDATA[The people here ain't all that bad. Their eyes are pure.]]></entry>
+    <entry id="melina+str_roster_list_low_stress_bark"><![CDATA[Hey, when's the next quest? I'll embark any day.]]></entry>
+    <entry id="melina+str_roster_list_low_stress_bark"><![CDATA[I'm ready. Call me when you need.]]></entry>
+	<entry id="melina+str_roster_list_low_stress_bark"><![CDATA[*Low purr*]]></entry>
+    <entry id="melina+str_roster_list_medium_stress_bark"><![CDATA[I can handle it. When's the next quest?]]></entry>
+    <entry id="melina+str_roster_list_medium_stress_bark"><![CDATA[I'm ready. One more run can't hurt.]]></entry>
+    <entry id="melina+str_roster_list_medium_stress_bark"><![CDATA[*Growls*.]]></entry>
+    <entry id="melina+str_roster_list_high_stress_bark"><![CDATA[Damn it. I swear I'm fine. I've been through worse.]]></entry>	
+    <entry id="melina+str_roster_list_high_stress_bark"><![CDATA[...I told you I was fine. What's with that stare?]]></entry>	
+    <entry id="melina+str_roster_list_high_stress_bark"><![CDATA[*Rough growling*.]]></entry>	
+
+    <entry id="melina+str_roster_list_bar_bark"><![CDATA[So, when I was in the bureau...]]></entry>
+    <entry id="melina+str_roster_list_gambling_bark"><![CDATA[Hang on a second, that dice sounds weird.]]></entry>
+    <entry id="melina+str_roster_list_brothel_bark"><![CDATA[No need to act up. Leave the men to the others-play with me instead.]]></entry>
+    <entry id="melina+str_roster_list_meditation_bark"><![CDATA[*Low purr*]]></entry>	
+    <entry id="melina+str_roster_list_prayer_bark"><![CDATA[...I don't know how to pray like the others. It's fine, right?]]></entry>
+    <entry id="melina+str_roster_list_flagellation_bark"><![CDATA[*Rough growling*]]></entry>	
+    <entry id="melina+str_roster_list_treatment_bark"><![CDATA[*Rough growling*]]></entry>
+	<entry id="melina+str_roster_list_treatment_bark"><![CDATA[Oh, hell! This is worse than the POW camp!]]></entry>
+	<entry id="melina+str_roster_list_treatment_bark"><![CDATA[AAAH! This is inhuman treatment!]]></entry>
+    <entry id="melina+str_roster_list_disease_treatment_bark"><![CDATA[Shit! What I'd give to go back to Altana's field hospital!]]></entry>
+    <entry id="melina+str_roster_list_disease_treatment_bark"><![CDATA[Is that treatment proven to be true? Hey, wait up..! What's with the leeches!]]></entry>
+    <entry id="melina+str_roster_list_disease_treatment_bark"><![CDATA[Is that scalpel properly cleaned?!]]></entry>
+    <entry id="melina+str_roster_list_bar_bark"><![CDATA[Now this is more like it. The town may be a shithole, but the bar's all right.]]></entry>
+    <entry id="melina+str_roster_list_gambling_bark"><![CDATA[Hit. Another hit. You ain't playing with the cards, are ya?]]></entry>
+    <entry id="melina+str_roster_list_brothel_bark"><![CDATA[Come here, sissy. It's your first time with a woman? It's okay. I'll be gentle.]]></entry>
+    <entry id="melina+str_roster_list_meditation_bark"><![CDATA[...]]></entry>	
+    <entry id="melina+str_roster_list_prayer_bark"><![CDATA[Ha...I didn't expect myself to look for god here.]]></entry>
+    <entry id="melina+str_roster_list_flagellation_bark"><![CDATA[*Rough Growling*]]></entry>	
+
+    <entry id="melina+str_quest_too_hard"><![CDATA[Wait. This is practically a suicide mission. You tryin' to kill me?]]></entry>
+    <entry id="melina+str_quest_too_hard"><![CDATA[I can't go on a reckless mission like this. At least a few would die.]]></entry>
+    <entry id="melina+str_quest_too_hard"><![CDATA[Damn it, we aren't prepared for this! The supplies or the equipment or whatnot!]]></entry>
+    <entry id="melina+str_quest_too_easy"><![CDATA[This is a waste of our forces. I trust that you will make a better choice.]]></entry>	
+    <entry id="melina+str_quest_too_easy"><![CDATA[Your blind? This is clearly a waste of our forces.]]></entry>	
+    <entry id="melina+str_quest_too_easy"><![CDATA[Oi. What do you think we'll do here? The real enemy's over there.]]></entry>	
+
+    <entry id="melina+str_keep_loot_string"><![CDATA[I'll be investigating this thoroughly. I promise I'll give it back...]]></entry>	
+    <entry id="melina+str_keep_loot_string"><![CDATA[This may be dangerous. I'll keep it.]]></entry>	
+    <entry id="melina+str_keep_loot_string"><![CDATA[*Low growl*]]></entry>	
+
+    <entry id="melina+str_bark_rest"><![CDATA[*Low purr*]]></entry>
+    <entry id="melina+str_bark_stress_partyhigh"><![CDATA[Keep your eyes open. We'll make it back alive, I swear.]]></entry>
+    <entry id="melina+str_bark_stress_partyhigh"><![CDATA[We might need tranquilizers.]]></entry>
+    <entry id="melina+str_bark_stress_partylow"><![CDATA[*Low growling*]]></entry>
+    <entry id="melina+str_bark_stress_partylow"><![CDATA[You have it in your eyes. Keep it up.]]></entry>
+    <entry id="melina+str_bark_hp_selflow"><![CDATA[I can still do more.]]></entry>
+    <entry id="melina+str_bark_hp_selflow"><![CDATA[*painful moan*]]></entry>
+    <entry id="melina+str_bark_hp_selflow"><![CDATA[...I'll need the battle stimulants.]]></entry>
+    <entry id="melina+str_bark_hp_selfhigh"><![CDATA[Ha...it's okay now. Not bad at all.]]></entry>
+    <entry id="melina+str_bark_hp_selfhigh"><![CDATA[*Low purr*]]></entry>
+    <entry id="melina+str_bark_hp_selfhigh"><![CDATA[Good. Let's carry on.]]></entry>
+    <entry id="melina+str_bark_stress_selflow"><![CDATA[I'm doing well. It's looking up.]]></entry>
+    <entry id="melina+str_bark_stress_selflow"><![CDATA[Much better. Things are looking up.]]></entry>
+    <entry id="melina+str_bark_stress_selfhigh"><![CDATA[I'm fine. Stop nagging.]]></entry>
+    <entry id="melina+str_bark_stress_selfhigh"><![CDATA[*Rough growling*]]></entry>
+    <entry id="melina+str_bark_party_great_condition"><![CDATA[We'll be back in no time.]]></entry>
+    <entry id="melina+str_bark_party_great_condition"><![CDATA[Not bad, everyone. You've got the spirit.]]></entry>
+    <entry id="melina+str_bark_party_great_condition"><![CDATA[Warriors from these lands ain't half bad.]]></entry>
+    <entry id="melina+str_bark_party_poor_condition"><![CDATA[Focus on surviving.]]></entry>
+    <entry id="melina+str_bark_party_poor_condition"><![CDATA[Keep your eyes peeled for anything.]]></entry>
+    <entry id="melina+str_bark_party_poor_condition"><![CDATA[Keep in mind that retreating is an option.]]></entry>
+    <entry id="melina+str_bark_firewood_low"><![CDATA[The fire fades. It did it's due dilligence. Not a bad night overall.]]></entry>
+    <entry id="melina+str_bark_provisions_low"><![CDATA[We're running low on provisions. Keep that in mind as we go on.]]></entry>
+    <entry id="melina+str_bark_provisions_high"><![CDATA[Whoever's on provision duty, you're doing good. I could kiss you.]]></entry>
+    <entry id="melina+str_bark_firewood_high"><![CDATA[*Low purr*]]></entry>
+    <entry id="melina+str_bark_companionship"><![CDATA[You're all doing well. Getting back won't be a problem.]]></entry>
+    <entry id="melina+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[Damn it. I've seen what I shouldn't have...]]></entry>
+    <entry id="melina+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[*Breathes heavily*]]></entry>
+    <entry id="melina+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[Wait, your face...! Am I seeing things..?]]></entry>
+    <entry id="melina+str_quest_darkest_dungeon"><![CDATA[So this is the strongest evil we face. I have a bad feeling about this.]]></entry>
+    <entry id="melina+str_quest_darkest_dungeon"><![CDATA[If it's an order, I will follow it. Had to be done anyways.]]></entry>
+    <entry id="melina+str_quest_darkest_dungeon"><![CDATA[I'll write a thorough report on that place. After all, it's undocumented.]]></entry>
+
+
+
+    <entry id="melina+str_bark_torch_2"><![CDATA[I can't see a feet infront of me. Keep your ears open and eyes peeled.]]></entry>
+    <entry id="melina+str_bark_torch_2"><![CDATA[*low growl*]]></entry>
+    <entry id="melina+str_bark_torch_0"><![CDATA[It's much better with the radiance.]]></entry>
+    <entry id="melina+str_bark_torch_0"><![CDATA[I didn't expect the torch to come in as so useful.]]></entry>
+
+
+
+
+
+
+    <entry id="melina+str_boss_miller_harvest"><![CDATA[This isn't good.]]></entry>
+    <entry id="melina+str_boss_miller_grind"><![CDATA[Darn!]]></entry>	
+    <entry id="melina+str_boss_miller_sadness"><![CDATA[*Rough breathing*]]></entry>
+
+	
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_melina_CROSSFIRE_TRAY_COOLDOWN_TT"><![CDATA[Crossfire under cooldown]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_melina_COOLDOWN_TT"><![CDATA[{colour_start|notable}Cooldown: 2 turns{colour_end}]]></entry>
+	
+  </language>
+  
+  
+	
+  
+  
+  
+  <language id="koreana">
+    <entry id="hero_class_name_melina"><![CDATA[사명의 잔불]]></entry>
+    <entry id="upgrade_tree_name_melina.weapon"><![CDATA[리볼버]]></entry>
+    <entry id="upgrade_tree_name_melina.armour"><![CDATA[전투복]]></entry>
+    <entry id="melina_armour_0"><![CDATA[헤진 전투복]]></entry>
+    <entry id="melina_armour_1"><![CDATA[수선된 전투복]]></entry>
+    <entry id="melina_armour_2"><![CDATA[신형 전투복]]></entry>
+    <entry id="melina_armour_3"><![CDATA[개량형 전투복]]></entry>
+    <entry id="melina_armour_4"><![CDATA["결의"]]></entry>
+    <entry id="melina_weapon_0"><![CDATA[낡은 리볼버]]></entry>
+    <entry id="melina_weapon_1"><![CDATA[손질된 리볼버]]></entry>
+    <entry id="melina_weapon_2"><![CDATA[신형 리볼버]]></entry>
+    <entry id="melina_weapon_3"><![CDATA[총열개조 리볼버]]></entry>
+    <entry id="melina_weapon_4"><![CDATA["단죄"]]></entry>
+
+    <entry id="trinket_rarity_melina"><![CDATA[사명의 잔불]]></entry>
+    <entry id="str_inventory_title_trinketmelina_common_1"><![CDATA[스피드 로더]]></entry>
+    <entry id="str_inventory_title_trinketmelina_common_2"><![CDATA[군번줄]]></entry>
+	<entry id="str_inventory_title_trinketmelina_uncommon_1"><![CDATA[개량 홀스터]]></entry>
+	<entry id="str_inventory_title_trinketmelina_uncommon_2"><![CDATA[무릎 보호대]]></entry>
+	<entry id="str_inventory_title_trinketmelina_rare"><![CDATA[개량 실린더]]></entry>
+	<entry id="str_inventory_title_trinketmelina_very_rare"><![CDATA[관리국 견장]]></entry>
+	<entry id="str_inventory_title_trinketmelina_trinket_cc_1"><![CDATA[누군가의 군번줄]]></entry>
+	<entry id="str_inventory_title_trinketmelina_trinket_cc_2"><![CDATA[잃어버린 기억]]></entry>
+	<entry id="str_inventory_title_trinketmelina_com"><![CDATA[매우 밝은 손전등]]></entry>
+    <entry id="str_inventory_set_title_cc_melina"><![CDATA[사랑해 마지않았던 그녀를...]]></entry>
+
+	
+	<entry id="str_affliction_name_deathdrive"><![CDATA[파멸 소망]]></entry>
+	<entry id="str_virtue_name_endlessdefiance"><![CDATA[끝없는 저항]]></entry>
+    <entry id="combat_skill_name_melina_single_shot"><![CDATA[단발 사격]]></entry>
+    <entry id="combat_skill_name_melina_angled_entry"><![CDATA[사선 진입]]></entry>
+    <entry id="combat_skill_name_melina_dive_kick"><![CDATA[강습]]></entry>
+    <entry id="combat_skill_name_melina_crossfire"><![CDATA[교차 사격]]></entry>
+    <entry id="combat_skill_name_melina_kickback"><![CDATA[역습]]></entry>
+    <entry id="combat_skill_name_melina_tracer_bullet"><![CDATA[예광탄]]></entry>
+    <entry id="combat_skill_name_melina_stimulant_pack"><![CDATA[전투 자극제]]></entry>
+    <entry id="combat_skill_name_melina_move"><![CDATA[이동]]></entry>
+    <entry id="upgrade_tree_name_melina.single_shot"><![CDATA[단발 사격]]></entry>
+    <entry id="upgrade_tree_name_melina.angled_entry"><![CDATA[공명]]></entry>
+    <entry id="upgrade_tree_name_melina.dive_kick"><![CDATA[강습]]></entry>
+    <entry id="upgrade_tree_name_melina.crossfire"><![CDATA[교차 사격]]></entry>
+    <entry id="upgrade_tree_name_melina.kickback"><![CDATA[역습]]></entry>
+    <entry id="upgrade_tree_name_melina.tracer_bullet"><![CDATA[예광탄]]></entry>
+    <entry id="upgrade_tree_name_melina.stimulant_pack"><![CDATA[전투 자극제]]></entry>
+    <entry id="camping_skill_name_night_sentinel"><![CDATA[불침번]]></entry>
+    <entry id="camping_skill_name_gun_cleaning_kit"><![CDATA[총기 손질 도구]]></entry>
+    <entry id="camping_skill_name_narcotic_analgesics"><![CDATA[환각성 진통제]]></entry>
+    <entry id="camping_skill_name_military_minoculars"><![CDATA[군용 쌍안경]]></entry>
+	
+    <entry id="buff_rule_data_tooltip_dive_kick"><![CDATA[강습]]></entry>
+    <entry id="buff_rule_data_tooltip_angled_entry"><![CDATA[사선 진입]]></entry>
+    <entry id="buff_rule_data_tooltip_single_shot"><![CDATA[단발 사격]]></entry>
+    <entry id="buff_rule_tooltip_skill_false"><![CDATA[%s 제외:%s]]></entry>
+    <entry id="buff_rule_data_tooltip_crossfire"><![CDATA[교차 사격]]></entry>
+    <entry id="buff_rule_data_tooltip_melina"><![CDATA[사명의 잔불]]></entry>
+    <entry id="buff_rule_data_tooltip_kickback"><![CDATA[역습]]></entry>
+    <entry id="buff_rule_data_tooltip_stimulant_pack"><![CDATA[전투 자극제]]></entry>
+    <entry id="buff_rule_data_tooltip_riposte1"><![CDATA[반격]]></entry>
+    <entry id="effect_health_damage_format"><![CDATA[%d 피해]]></entry>
+    <entry id="skill_performer_hp_min"><![CDATA[남은 체력이 %d%% 이상일 시]]></entry>
+	
+    <entry id="action_verbose_body_guild_melina"><![CDATA[가벼운 걸음과 예리한 일격을 겸비한 사명의 잔불는, 적의 공격을 흘려내며 그 틈을 치명적인 반격으로 응수합니다.]]></entry>
+    <entry id="action_verbose_body_blacksmith_melina"><![CDATA[흐트러짐 없는 군복을 걸친 사명의 잔불는 실용성을 중시합니다. 그녀의 곁을 지키는 두 정의 리볼버는 무겁지 않으면서도 확실하며, 언제나 신속한 대응을 보장합니다.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_melina"><![CDATA[사명의 잔불는 야영에서 누구보다도 철저히 임무를 수행합니다. 스스로를 희생해 경계를 서고, 쌍안경으로 주변을 살피며, 간혹 강력한 진통제로 공포를 잊게 해주기도 합니다.]]></entry>
+    <entry id="town_event_title_first_melina"><![CDATA[제국의 첨병]]></entry>
+    <entry id="town_event_title_bonus_recruit_melina"><![CDATA[제국의 첨병]]></entry>
+    <entry id="town_event_description_first_melina"><![CDATA[피 냄새를 지운 채, 늑대 같은 낯선 여인이 영지의 문을 두드렸습니다.]]></entry>
+    <entry id="town_event_description_bonus_recruit_melina"><![CDATA[피 냄새를 지운 채, 늑대 같은 낯선 여인이 영지의 문을 두드렸습니다.]]></entry>
+	
+    <entry id="str_bark_night_sentinel"><![CDATA[오늘은 내가 경계를 서지.]]></entry>
+    <entry id="str_bark_night_sentinel"><![CDATA[모두 마음 놓고 자라고. 내가 불침번을 설테니.]]></entry>
+    <entry id="str_bark_gun_cleaning_kit"><![CDATA[...너도 고생이 많구나.]]></entry>
+    <entry id="str_bark_gun_cleaning_kit"><![CDATA[...조금만 기다려. 새것처럼 만들어 줄게.]]></entry>
+    <entry id="str_bark_narcotic_analgesics"><![CDATA[뭐, 죽는 것 보다 나을거야.]]></entry>
+    <entry id="str_bark_narcotic_analgesics"><![CDATA[조금 기다리면 편해질거야. 좋은 꿈 꾸라고.]]></entry>
+    <entry id="str_bark_military_minoculars"><![CDATA[정찰 임무를 수행하겠다.]]></entry>
+    <entry id="str_bark_military_minoculars"><![CDATA[쉬고 있어. 난 정찰을 좀 하고 오지.]]></entry>
+    <entry id="melina+str_afflicted_deathdrive"><![CDATA[그래. 계속해보자고.]]></entry>
+    <entry id="melina+str_afflicted_deathdrive"><![CDATA[잃기만 하는 삶 따위.]]></entry>
+    <entry id="melina+str_afflicted_deathdrive"><![CDATA[그때, 차라리 내가 대신 죽어야 했는데...!]]></entry>
+    <entry id="melina+str_afflicted_deathdrive"><![CDATA[흘려온 피조차, 결국엔 헛된 증명일 뿐인가...]]></entry>
+    <entry id="melina+str_virtued_endlessdefiance"><![CDATA[다시는 누군가를 잃고 싶지 않으니까.]]></entry>
+    <entry id="melina+str_virtued_endlessdefiance"><![CDATA[아직 할 수 있어. 전투를 속행한다.]]></entry>
+    <entry id="melina+str_virtued_endlessdefiance"><![CDATA[쓰러질 수 없어. 내 싸움은 아직 끝나지 않았으니까.]]></entry>
+    <entry id="melina+str_virtued_endlessdefiance"><![CDATA[이대로 돌파한다! 내 뒤를 따라와!]]></entry>
+    <entry id="melina+str_stress_heal_self_endlessdefiance"><![CDATA[이런 데서 죽어서는 그녀를 볼 면목이 없거든.]]></entry>
+    <entry id="melina+str_stress_heal_self_endlessdefiance"><![CDATA[계속 발버둥쳐주지! 이런 곳에서 죽을 수는 없으니 말이야!]]></entry>
+    <entry id="melina+str_stress_heal_party_endlessdefiance"><![CDATA[두려워 할 필요 없어. 여기서 쓰러지는 건 저 녀석들이다.]]></entry>
+    <entry id="melina+str_stress_heal_party_endlessdefiance"><![CDATA[총알이 박힌다는건 죽일 수 있다는거지. 논리적으로 말이야.]]></entry>
+    <entry id="melina+str_buff_random_party_member_endlessdefiance"><![CDATA[별거 아니야. 네가 공격하고, 적은 쓰러진다. 그뿐이지.]]></entry>
+    <entry id="melina+str_buff_random_party_member_endlessdefiance"><![CDATA[다른 생각 하지 마. 눈앞의 적을 쓰러트리는 것만 생각해.]]></entry>
+    <entry id="melina+str_heal_self_endlessdefiance"><![CDATA[후... 아직 할만해.]]></entry>
+    <entry id="melina+str_heal_self_endlessdefiance"><![CDATA[아직, 해야할 일이 있어.]]></entry>
+	
+    <entry id="melina+str_bark_stress_deathdrive"><![CDATA[그녀가 없는 삶 따위...]]></entry>
+    <entry id="melina+str_bark_stress_deathdrive"><![CDATA[사람은 모두 죽어. 그 누구도 예외는 없어.]]></entry>
+    <entry id="melina+str_bark_stress_deathdrive"><![CDATA[이대로 쓰러진다면, 조금은 편해질 수 있을까....]]></entry>
+    <entry id="melina+str_bark_stress_deathdrive"><![CDATA[오늘 너희가 살아남더라도, 내일도 그럴 거라는 보장은 없어.]]></entry>
+    <entry id="melina+str_bark_stress_deathdrive"><![CDATA[그때, 그대로 죽었더라면 이렇게 괴롭지 않았을텐데....]]></entry>
+    <entry id="melina+str_bark_stress_camp_deathdrive"><![CDATA[지금 휴식을 취하는 것은 적절하지 않아 보이는군.]]></entry>
+    <entry id="melina+str_bark_stress_camp_deathdrive"><![CDATA[놀러 온 것이 아닐 텐데.]]></entry>
+    <entry id="melina+str_bark_stress_camp_deathdrive"><![CDATA[이런 식으로 하루씩 연명해도, 결국에는....]]></entry>
+    <entry id="melina+str_mark_self_deathdrive"><![CDATA[내가 시선을 끌지. 어차피 죽다 만 목숨이니.]]></entry>
+    <entry id="melina+str_mark_self_deathdrive"><![CDATA[그래, 어서 나를 노리라고!]]></entry>
+    <entry id="melina+str_mark_self_deathdrive"><![CDATA[내가 대신하지.]]></entry>
+    <entry id="melina+str_attack_self_deathdrive"><![CDATA[이 싸움 끝에 대체 뭐가 있지?]]></entry>
+    <entry id="melina+str_attack_self_deathdrive"><![CDATA[*위협적으로 그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_block_combat_retreat_deathdrive"><![CDATA[아니, 난 여기 남는다.]]></entry>
+    <entry id="melina+str_block_combat_retreat_deathdrive"><![CDATA[내 싸움은 아직 끝나지 않았어.]]></entry>
+    <entry id="melina+str_block_combat_retreat_deathdrive"><![CDATA[하, 퇴각하고 싶다면 나를 두고 후퇴해.]]></entry>
+    <entry id="melina+str_comment_self_hit_deathdrive"><![CDATA[윽...! 젠장! 이따위니까 그 때 못 지킨 거야, 이 모자란 년!]]></entry>
+    <entry id="melina+str_comment_self_hit_deathdrive"><![CDATA[드디어 만날 수 있는걸까....]]></entry>
+    <entry id="melina+str_comment_self_missed_deathdrive"><![CDATA[*거친 숨소리...* 아직도 죽는게 두려워? 응? *계속되는 혼잣말*]]></entry>
+    <entry id="melina+str_comment_self_missed_deathdrive"><![CDATA[제길! 편해질 수 있었는데!]]></entry>
+    <entry id="melina+str_comment_ally_attack_hit_deathdrive"><![CDATA[도망치는게 어때? 그렇게 설치지 말고.]]></entry>
+    <entry id="melina+str_comment_ally_attack_hit_deathdrive"><![CDATA[너도 죽고싶어? 당장 뒤로 빠지라고!]]></entry>
+    <entry id="melina+str_comment_ally_attack_hit_deathdrive"><![CDATA[*위협적으로 그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_comment_ally_attack_missed_deathdrive"><![CDATA[소용없는 것 알았으면 이만 후퇴해.]]></entry>
+    <entry id="melina+str_comment_ally_attack_missed_deathdrive"><![CDATA[어설프게 전장에 뛰어들지 말고 집으로 돌아가.]]></entry>
+    <entry id="melina+str_comment_ally_missed_deathdrive"><![CDATA[하, 다음에도 멀쩡할 것 같아? 죽는 거 한순간이야.]]></entry>
+    <entry id="melina+str_comment_ally_missed_deathdrive"><![CDATA[이번엔 빗나갔지만, 다음엔 분명....]]></entry>
+    <entry id="melina+str_comment_ally_hit_deathdrive"><![CDATA[또야! 또다시 누군가 죽고 말 거야!]]></entry>
+    <entry id="melina+str_comment_ally_hit_deathdrive"><![CDATA[다들 죽을 걸 알면서도 그렇게 어둠 속으로 기어들어 가는 거지.]]></entry>
+    <entry id="melina+str_comment_ally_hit_deathdrive"><![CDATA[하, 멋모르고 설치다 다치는 꼴을 보니 오래 살진 못하겠군.]]></entry>
+    <entry id="melina+str_block_move_deathdrive"><![CDATA[그 명령은 적절하지 않군.]]></entry>
+    <entry id="melina+str_block_move_deathdrive"><![CDATA[이게 최선이다.]]></entry>
+    <entry id="melina+str_block_item_deathdrive"><![CDATA[검증된 물자가 아니라면 사용하지 않겠다.]]></entry>
+    <entry id="melina+str_block_item_deathdrive"><![CDATA[군용품도 아닌 것을.]]></entry>
+    <entry id="melina+str_block_heal_deathdrive"><![CDATA[필요 없어.]]></entry>
+    <entry id="melina+str_block_heal_deathdrive"><![CDATA[난 받을 자격이 없다.]]></entry>
+    <entry id="melina+str_block_heal_deathdrive"><![CDATA[*그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_block_buff_deathdrive"><![CDATA[그래봐야 소용 없어.]]></entry>
+    <entry id="melina+str_block_buff_deathdrive"><![CDATA[이런건 나에겐 과분해.]]></entry>
+    <entry id="melina+str_ignore_command_deathdrive"><![CDATA[그건 전술적으로 절적하지 않은데.]]></entry>
+    <entry id="melina+str_ignore_command_deathdrive"><![CDATA[그 명령에는 따를 수 없어.]]></entry>
+    <entry id="melina+str_random_command_deathdrive"><![CDATA[어차피 다 죽을 운명인데...!]]></entry>
+	<entry id="melina+str_random_command_deathdrive"><![CDATA[내 마지막은 내가 정해!]]></entry>
+    <entry id="melina+str_comment_trap_triggered_deathdrive"><![CDATA[젠장! 내가 더 똑바로 봐야 했는데! 쓸모없는 년!]]></entry>
+	<entry id="melina+str_comment_trap_triggered_deathdrive"><![CDATA[내가 더 잘 구분해 내야 했는데! 멍청한 년!]]></entry>
+	<entry id="melina+str_comment_curio_interaction_deathdrive"><![CDATA[앞으로 이런 것에 함부로 손대려 하지 마라.]]></entry>
+	<entry id="melina+str_comment_curio_interaction_deathdrive"><![CDATA[함부로 만지다니! 얼마나 위험할 줄 알고!]]></entry>
+	<entry id="melina+str_comment_curio_interaction_deathdrive"><![CDATA[*위협적으로 그르릉거리는 소리*]]></entry>
+
+
+    <entry id="melina+str_critbyhero"><![CDATA[이봐, 여유가 없어 보이는데?]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[탄약을 아꼈군!]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[다음 총알받이는 누구지?]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[총알이 아까울 정도인데.]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[형편없군.]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[*기분좋게 그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[꽤 아플걸!]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[후후. 좋은데!]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[보재치 마. 순서대로 보내줄 테니까.]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[빈틈 투성이군!]]></entry>
+    <entry id="melina+str_critbyhero"><![CDATA[내가 공격하는 걸 못 봤군. 그렇지?]]></entry>
+    <entry id="melina+str_bark_encourage"><![CDATA[넌 반드시 살아 돌아갈거야. 걱정하지 마.]]></entry>
+    <entry id="melina+str_bark_encourage"><![CDATA[너무 걱정하지 마. 작전대로 되어가고 있으니까.]]></entry>
+    <entry id="melina+str_bark_encourage"><![CDATA[작전대로 움직이면, 큰 사고는 안 날 거다.]]></entry>
+    <entry id="melina+str_bark_first_aid"><![CDATA[잠깐, 상처를 보여줘.]]></entry>
+    <entry id="melina+str_bark_first_aid"><![CDATA[응급 처치는 기초 훈련 항목이거든.]]></entry>
+    <entry id="melina+str_bark_first_aid"><![CDATA[금방 아물 거야.]]></entry>
+    <entry id="melina+str_bark_pep_talk"><![CDATA[적어도 오늘은 별 탈 없이 지나갈 거다.]]></entry>
+    <entry id="melina+str_bark_pep_talk"><![CDATA[긴장된다면, 효과적인 호흡법을 알려주지. 이런 훈련도 있거든.]]></entry>
+    <entry id="melina+str_bark_pep_talk"><![CDATA[계획대로 진행되고 있어. 적어도 지금까지는.]]></entry>
+    <entry id="melina+str_bark_hobby"><![CDATA[오늘따라 보고 싶네.. 루비.]]></entry>
+    <entry id="melina+str_bark_hobby"><![CDATA[*탄환을 점검하는 소리. 가볍게 짤랑거린다.*]]></entry>
+    <entry id="melina+str_bark_hobby"><![CDATA[(누군가의 군번줄을 들여다본다.)]]></entry>
+
+	<entry id="melina+str_bark_deathsdoor"><![CDATA[큭... 이대로 쓰러질 수는...!]]></entry>
+	<entry id="melina+str_bark_deathsdoor"><![CDATA[윽... 상태가 안 좋은데.]]></entry>
+	<entry id="melina+str_bark_deathsdoor"><![CDATA[젠장...!]]></entry>
+	<entry id="melina+str_bark_deathsdoor"><![CDATA[*거칠게 그르릉거리는 소리*]]></entry>
+
+
+    <entry id="melina+str_override_invalid_rejection"><![CDATA[필요 없는 것 같은데.]]></entry>
+    <entry id="melina+str_override_invalid_rejection"><![CDATA[소용 없어.]]></entry>
+    <entry id="melina+str_override_invalid_rejection"><![CDATA[필요 없다니까.]]></entry>
+	
+    <entry id="str_melina_bar_rejection"><![CDATA[...술은 정신을 흐리게 하거든.]]></entry>
+    <entry id="str_melina_gambling_rejection"><![CDATA[이런 곳에 흥미 없어.]]></entry>
+    <entry id="str_melina_brothel_rejection"><![CDATA[...장난하자는거냐?]]></entry>
+    <entry id="str_melina_prayer_rejection"><![CDATA[...신은 믿지 않는 주의라.]]></entry>
+    <entry id="str_melina_flagellation_rejection"><![CDATA[이런, 미개한... 크흠, 실례.]]></entry>
+    <entry id="melina+str_block_camping_skill_performer_deathdrive"><![CDATA[나는... 더이상...]]></entry>
+    <entry id="melina+str_block_camping_skill_performer_deathdrive"><![CDATA[......]]></entry>
+    <entry id="melina+str_block_camping_skill_performer_deathdrive"><![CDATA[...수행할 수 없다.]]></entry>
+    <entry id="melina+str_block_camping_skill_target_deathdrive"><![CDATA[너부터 챙기는게 나을걸.]]></entry>
+    <entry id="melina+str_block_camping_skill_target_deathdrive"><![CDATA[...내버려 둬.]]></entry>
+    <entry id="melina+str_block_camping_skill_target_deathdrive"><![CDATA[...필요 없어.]]></entry>
+    <entry id="melina+str_block_camping_meal_deathdrive"><![CDATA[내 몫은 됐어. 다른 이에게 나눠줘.]]></entry>
+    <entry id="melina+str_block_camping_meal_deathdrive"><![CDATA[...나는 먹을 자격이 없어.]]></entry>
+    <entry id="melina+str_block_camping_meal_deathdrive"><![CDATA[...젠장.]]></entry>
+    <entry id="str_incompatible_party_member_melina_limit"><![CDATA[전술적으로 잘못된 선택이다.]]></entry>
+    <entry id="str_incompatible_party_member_melina_limit"><![CDATA[그 판단에는 따를 수 없다.]]></entry>
+	
+	<entry id="melina+str_control_before_turn_siren"><![CDATA[루비? 루비 너 맞아?]]></entry>
+	<entry id="melina+str_control_before_turn_siren"><![CDATA[이번엔, 내가 지켜줄테니까!]]></entry>
+	<entry id="melina+str_combat_knockback"><![CDATA[크윽..! 무슨 힘이 이렇게..!]]></entry>
+	<entry id="melina+str_prisoner_damage_cauldron_full"><![CDATA[아악! 젠장! 미개한 야만족 같으니!]]></entry>
+	<entry id="melina+str_prisoner_damage_cauldron_full"><![CDATA[제길! 오래 못 버텨!]]></entry>
+	<entry id="melina+str_prisoner_damage_cauldron_full"><![CDATA[어서 꺼내줘!]]></entry>
+	<entry id="melina+str_control_return_siren"><![CDATA[...!! 미안해! 젠장, 이런 불쾌한 수작을...!]]></entry>
+	<entry id="melina+str_control_return_siren"><![CDATA[이런... 머리가 멍한데.]]></entry>
+	<entry id="melina+str_prisoner_damage_drowned_anchored"><![CDATA[큭.. 숨이..!]]></entry>
+	<entry id="melina+str_prisoner_damage_drowned_anchored"><![CDATA[젠장, 무거워...! 벗어날 수 없어!]]></entry>
+	<entry id="melina+str_combat_wastingtime"><![CDATA[이런 무의미한 명령을 내리다니!]]></entry>
+	<entry id="melina+str_monster_attack_obliterate_enraged"><![CDATA[저 녀석, 기분이 안좋아 보이는데...!]]></entry>
+	<entry id="melina+str_monster_attack_light_fuse"><![CDATA[젠장! 충격에 대비해!]]></entry>
+	<entry id="melina+str_monster_attack_prophet_mark"><![CDATA[잠깐, 천장에서 무슨 소리 들리지 않았어?]]></entry>
+	<entry id="melina+str_monster_attack_prophet_mark"><![CDATA[...! 안좋은 예감이 드는데..!]]></entry>
+    <entry id="melina+egg_increment_bark_1"><![CDATA[느낌이 안좋은데...]]></entry>
+    <entry id="melina+egg_increment_bark_2"><![CDATA[으음...]]></entry>
+    <entry id="melina+str_bark_shuffled"><![CDATA[젠장! 다들 대열 유지해!]]></entry>
+	
+    <entry id="melina+quirk_evolution_death_disease_vampire_wasting"><![CDATA[겨우... 이런일로...]]></entry>
+    <entry id="melina+quirk_transition_disease_vampire_blood_lust_to_disease_vampire_passive"><![CDATA[큭... 이제 괜찮아...]]></entry>
+    <entry id="melina+quirk_transition_disease_vampire_crave_to_disease_vampire_blood_lust"><![CDATA[후우... 그래! 이거지!]]></entry>
+	<entry id="melina+quirk_transition_disease_vampire_crave_to_disease_vampire_blood_lust"><![CDATA[푸하...! 이제 좀 살겠네!]]></entry>
+    <entry id="melina+quirk_transition_disease_vampire_crave_to_disease_vampire_wasting"><![CDATA[이런, 갈증이.. 갈증이 심각해... 피, 피가 필요해...!]]></entry>
+    <entry id="melina+quirk_transition_disease_vampire_passive_to_disease_vampire_crave"><![CDATA[젠장, 흡혈 충동이 점점 심해지는데...]]></entry>
+    <entry id="melina+quirk_transition_disease_vampire_wasting_to_disease_vampire_passive"><![CDATA[하아... 좀 살 것 같네.]]></entry>	
+	<entry id="melina+str_attack_friendly_disease_vampire_blood_lust"><![CDATA[아하하! 비켜! 방해라고!]]></entry>
+    <entry id="melina+str_attack_friendly_disease_vampire_crave"><![CDATA[내 옆에 있지 마!]]></entry>
+    <entry id="melina+str_attack_friendly_disease_vampire_wasting"><![CDATA[젠장...! 얼쩡거리지 마!]]></entry>
+    <entry id="melina+str_bark_stress_disease_vampire_blood_lust"><![CDATA[아하하하! 이렇게 즐거운건 오랜만인데!]]></entry>
+    <entry id="melina+str_bark_stress_disease_vampire_crave"><![CDATA[제길, 미치겠군! 난 흡혈귀가 아니라고!]]></entry>	
+    <entry id="melina+str_bark_stress_disease_vampire_wasting"><![CDATA[*다급히 침을 닦는 소리* ...젠장.]]></entry>
+    <entry id="melina+str_block_buff_disease_vampire_blood_lust"><![CDATA[날 방해하지 마! 난 지금 엄청나게 기분이 좋다고!]]></entry>
+    <entry id="melina+str_block_buff_disease_vampire_crave"><![CDATA[제길, 건들지 마!]]></entry>
+    <entry id="melina+str_block_buff_disease_vampire_wasting"><![CDATA[그런건 필요 없으니, 피를 좀 달라고...!]]></entry>	
+    <entry id="melina+str_block_camping_meal_disease_vampire_crave"><![CDATA[그런걸 먹어서 배가 찰 것 같나?]]></entry>
+    <entry id="melina+str_block_camping_meal_disease_vampire_wasting"><![CDATA[*그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_block_combat_retreat_disease_vampire_blood_lust"><![CDATA[하! 필요 없어! 적을 죽이고 피를 취하면 돼!]]></entry>
+    <entry id="melina+str_block_heal_disease_vampire_blood_lust"><![CDATA[젠장, 피가 멎잖아! 그만해!]]></entry>	
+    <entry id="melina+str_block_heal_disease_vampire_crave"><![CDATA[지금은 됐어.]]></entry>
+    <entry id="melina+str_block_heal_disease_vampire_wasting"><![CDATA[갈증이 너무 심해서...]]></entry>	
+    <entry id="melina+str_block_move_disease_vampire_wasting"><![CDATA[*힘겹게 헐떡이는 소리*]]></entry>
+    <entry id="melina+str_change_pos_fwd_disease_vampire_blood_lust"><![CDATA[비켜! 저기서 피 냄새가 난다고!]]></entry>
+    <entry id="melina+str_change_pos_fwd_disease_vampire_crave"><![CDATA[...저기서 피 냄새가 나는 것 같은데.]]></entry>	
+	<entry id="melina+str_comment_ally_hit_disease_vampire_blood_lust"><![CDATA[저런! 아프겠군! 나중에 상처좀 핥게해달라고!]]></entry>
+    <entry id="melina+str_comment_ally_hit_disease_vampire_crave"><![CDATA[...이제보니 너, 피 냄새가 나쁘지 않은데.]]></entry>
+    <entry id="melina+str_comment_curio_interaction_disease_vampire_crave"><![CDATA[분명 피 냄새가 났는데.]]></entry>
+    <entry id="melina+str_comment_curio_interaction_disease_vampire_wasting"><![CDATA[...]]></entry>	
+    <entry id="melina+str_comment_trap_triggered_disease_vampire_crave"><![CDATA[윽.. 아까운 피가..]]></entry>	
+    <entry id="melina+str_comment_trap_triggered_disease_vampire_wasting"><![CDATA[*힘겨워보이는 숨소리*]]></entry>
+    <entry id="melina+str_ignore_command_disease_vampire_blood_lust"><![CDATA[아니! 내 일은 내가 결정해!]]></entry>
+    <entry id="melina+str_ignore_command_disease_vampire_crave"><![CDATA[별로 좋은 판단같지 않은데.]]></entry>
+    <entry id="melina+str_ignore_command_disease_vampire_wasting"><![CDATA[*그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_random_command_disease_vampire_blood_lust"><![CDATA[아하하하! 다 죽어! 피를 흘려라!]]></entry>
+    <entry id="melina+str_stagecoach_roster_limit_quirk_full_rejection"><![CDATA[이봐. 정말로 내 자리가 없나?]]></entry>
+    <entry id="melina+str_bark_deathsdoor_ally"><![CDATA[제길! 먼저 죽지 말라고!]]></entry>
+    <entry id="melina+str_bark_deathsdoor_ally"><![CDATA[젠장! 의무병은 없나?!]]></entry>
+    <entry id="melina+str_bark_deathsdoorsurvive"><![CDATA[아직 죽을 수는 없지!]]></entry>
+    <entry id="melina+str_bark_deathsdoorsurvive"><![CDATA[큭.. 아직이야!]]></entry>
+    <entry id="melina+str_bark_deathsdoorsurvive"><![CDATA[*거칠게 그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_bark_poisondot"><![CDATA[윽, 혈관이 타들어 가는 느낌이야..!]]></entry>
+    <entry id="melina+str_bark_poisondot"><![CDATA[제길, 해독제는 없나?]]></entry>
+    <entry id="melina+str_bark_poisondot"><![CDATA[하아.. 심장이 아픈데.]]></entry>
+    <entry id="melina+str_bark_bleeddot"><![CDATA[제길, 피가 흐르는군.]]></entry>	
+    <entry id="melina+str_bark_bleeddot"><![CDATA[윽... 붕대나 지혈제는 없나?]]></entry>	
+    <entry id="melina+str_bark_bleeddot"><![CDATA[*그르릉거리는 소리*]]></entry>	
+
+    <entry id="melina+str_bark_curiogood"><![CDATA[이런 게 전장의 오아시스지.]]></entry>
+    <entry id="melina+str_bark_curiogood"><![CDATA[*기분좋게 그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_bark_curiogood"><![CDATA[이런 곳에도 볕이 들기 마련이군.]]></entry>
+    <entry id="melina+str_bark_curiobad"><![CDATA[제길. 건드는게 아니었는데.]]></entry>
+    <entry id="melina+str_bark_curiobad"><![CDATA[이런..!]]></entry>
+    <entry id="melina+str_bark_curiobad"><![CDATA[*그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_bark_curiomeh"><![CDATA[나 참.]]></entry>
+    <entry id="melina+str_bark_curiomeh"><![CDATA[뭐, 별 일 없다는 것은 좋은 일이지.]]></entry>
+    <entry id="melina+str_bark_curiomeh"><![CDATA[*작은 한숨 소리*]]></entry>
+    <entry id="melina+str_bar_committed"><![CDATA[여기서 가장 독한 술이 어느거지? 일단 가져와 봐.]]></entry>
+	<entry id="melina+str_bar_committed"><![CDATA[그래. 다 가져와. 잊고 싶은 일이 한가득이야.]]></entry>
+    <entry id="melina+str_gambling_committed"><![CDATA[속임수를 썼다간, 머리통이 날아갈 줄 알라고.]]></entry>	
+    <entry id="melina+str_gambling_committed"><![CDATA[노름판이라.. 가끔은 즐겨볼까.]]></entry>	
+	<entry id="melina+str_brothel_committed"><![CDATA[*그르릉거리는 소리*]]></entry>	
+	<entry id="melina+str_brothel_committed"><![CDATA[거기 너. 그래. 예쁘게 생겼군. 이리 와.]]></entry>	
+	<entry id="melina+str_brothel_committed"><![CDATA[여기서 제일 예쁜 아가씨를 데려와. 머리가 길면 더 좋고.]]></entry>	
+    <entry id="melina+str_meditation_committed"><![CDATA[하... 그래. 생각할 시간이 조금 필요했어.]]></entry>
+    <entry id="melina+str_meditation_committed"><![CDATA[이런 조용한 곳도 나쁘지 않군.]]></entry>
+    <entry id="melina+str_prayer_committed"><![CDATA[신을 믿지 않아도 기도는 하게 되더군.]]></entry>	
+    <entry id="melina+str_prayer_committed"><![CDATA[나를 위한 기도를 올리지.]]></entry>	
+    <entry id="melina+str_prayer_committed"><![CDATA[*작게 그르릉거리는 소리*]]></entry>	
+    <entry id="melina+str_flagellation_committed"><![CDATA[이..런 미개한 방법으로.. 크흠 실례. ...이런 것으로 정말로 기분이 나아지는건가?]]></entry>
+    <entry id="melina+str_flagellation_committed"><![CDATA[이런 변태적인 취향은 없는데. ...뭐? 신성모독이라고?]]></entry>
+    <entry id="melina+str_treatment_committed"><![CDATA[어이, 잠깐. 그거 검증된 방법이 맞아? 손은 왜 묶는건데?]]></entry>
+    <entry id="melina+str_treatment_committed"><![CDATA[젠장! 이런 민간요법을 그렇게 당당하게 행해도 되는건가!]]></entry>
+    <entry id="melina+str_treatment_committed"><![CDATA[*불안한 듯 그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_disease_treatment_committed"><![CDATA[잠깐, 혹시 위생이라는 개념을 알고있나?]]></entry>
+    <entry id="melina+str_disease_treatment_committed"><![CDATA[젠장! 맨 손으로 상처에 손 대지 마! 갈고리는 왜 가져오는거야!]]></entry>
+    <entry id="melina+str_disease_treatment_committed"><![CDATA[*공격적으로 그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_alcoholism_gambling_rejection"><![CDATA[됐고, 술이나 더 가져오라고.]]></entry>
+    <entry id="melina+str_alcoholism_brothel_rejection"><![CDATA[젠장, 창녀를 사는 취미는 없다고. 술이나 가져와!]]></entry>
+    <entry id="melina+str_alcoholism_meditation_rejection"><![CDATA[이딴 곳에 날 가두려 하다니!]]></entry>
+    <entry id="melina+str_alcoholism_prayer_rejection"><![CDATA[신은 무언가 해결해 준 적이 없지. 대신 술은 이 갈증을 확실하게 해결해주지.]]></entry>
+    <entry id="melina+str_alcoholism_flagellation_rejection"><![CDATA[...진짜, 미개해서 못봐주겠군.]]></entry>	
+    <entry id="melina+str_gambler_bar_rejection"><![CDATA[이봐. 이거 말고 더 즐거운게 있잖아.]]></entry>
+    <entry id="melina+str_gambler_meditation_rejection"><![CDATA[이런 텅 빈 공간에서 뭘 하라는거야?]]></entry>
+    <entry id="melina+str_gambler_prayer_rejection"><![CDATA[기도는 나약한 자들이나 하는거야.]]></entry>
+    <entry id="melina+str_gambler_flagellation_rejection"><![CDATA[이런 변태적인 취미는 없는데.]]></entry>
+    <entry id="melina+str_love_interest_bar_rejection"><![CDATA[술도 나쁘지 않지만, 여자가 없다면 아무것도 안 돼.]]></entry>
+    <entry id="melina+str_love_interest_gambling_rejection"><![CDATA[여기 말고, 옆 방으로 가자고. 응?]]></entry>
+    <entry id="melina+str_love_interest_meditation_rejection"><![CDATA[*불만스럽게 그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_love_interest_prayer_rejection"><![CDATA[정말로 신이 있다고 믿는건 아니겠지.]]></entry>
+    <entry id="melina+str_love_interest_flagellation_rejection"><![CDATA[예쁜 여자 한 명 같이 넣어주면 들어가도록 하지.]]></entry>
+    <entry id="melina+str_enlightened_bar_rejection"><![CDATA[술은 정신을 흐리게 해.]]></entry>
+    <entry id="melina+str_enlightened_gambling_rejection"><![CDATA[도박같은 저열한 취미는 없어.]]></entry>
+    <entry id="melina+str_enlightened_brothel_rejection"><![CDATA[지금 나보고 창녀를 안으라는 건가?]]></entry>
+    <entry id="melina+str_enlightened_prayer_rejection"><![CDATA[아니, 좀 더 조용한 곳이 필요해.]]></entry>
+    <entry id="melina+str_enlightened_flagellation_rejection"><![CDATA[취향은 존중하지. 하지만 난 아니야.]]></entry>
+    <entry id="melina+str_god_fearing_bar_rejection"><![CDATA[술은 정신을 흐리게 할 뿐.]]></entry>
+    <entry id="melina+str_god_fearing_gambling_rejection"><![CDATA[아니. 너희들끼리 재미 보라고.]]></entry>
+    <entry id="melina_str_god_fearing_brothel_rejection"><![CDATA[*깊은 한숨 소리*]]></entry>
+    <entry id="melina+str_god_fearing_meditation_rejection"><![CDATA[옆 방으로 가지. 기도를 올려야 해.]]></entry>
+    <entry id="melina+str_god_fearing_flagellation_rejection"><![CDATA[지금은 아냐. 기도를 올리고 싶군.]]></entry>
+    <entry id="melina+str_flagellant_bar_rejection"><![CDATA[하아... 지금은 아냐.]]></entry>
+    <entry id="melina+str_flagellant_gambling_rejection"><![CDATA[흥미 없어.]]></entry>
+    <entry id="melina+str_flagellant_brothel_rejection"><![CDATA[*깊은 한숨 소리*]]></entry>
+    <entry id="melina+str_flagellant_meditation_rejection"><![CDATA[그... 여기 말고 좀 더 가자고.]]></entry>
+    <entry id="melina+str_flagellant_prayer_rejection"><![CDATA[...혹시 옆 방은 비어 있나?]]></entry>
+    <entry id="melina+str_resolution_bar_rejection"><![CDATA[난 술 없이도 버틸 수 있어.]]></entry>	
+    <entry id="melina+str_known_cheat_gambling_rejection"><![CDATA[크흠... 저번에 출입금지를 당해서 말이야.]]></entry>
+    <entry id="melina+str_deviant_tastes_brothel_rejection"><![CDATA[(아쉬워보이는 그르릉거리는 소리)]]></entry>
+    <entry id="melina+str_unquiet_mind_meditation_rejection"><![CDATA[이런 조용한 곳은 싫은데.]]></entry>
+    <entry id="melina+str_witness_prayer_rejection"><![CDATA[이런 기도는 하등 쓸모가 없어. 어차피 닿지 않거든.]]></entry>
+    <entry id="melina+str_faithless_prayer_rejection"><![CDATA[기도는 너희나 잔뜩 올려라.]]></entry>
+    <entry id="melina+str_faithless_flagellation_rejection"><![CDATA[이런 미개한 방식이 통할 것 같나.]]></entry>
+    <entry id="melina+str_stagecoach_idle"><![CDATA[군사적 지원이 필요하지는 않나. 첨병이라던가.]]></entry>
+    <entry id="melina+str_stagecoach_idle"><![CDATA[내가 선봉장이 되어 줄 수 있는데. 어때?]]></entry>
+    <entry id="melina+str_stagecoach_idle"><![CDATA[*작게 그르릉거리는 소리*]]></entry>
+
+    <entry id="melina+str_roster_list_deathdrive_bark"><![CDATA[내가... 내가 그 때 죽었어야...]]></entry>	
+    <entry id="melina+str_roster_list_deathdrive_bark"><![CDATA[또, 또 살아남고야 말았어...]]></entry>	
+    <entry id="melina+str_roster_list_deathdrive_bark"><![CDATA[*불안한 숨소리*]]></entry>	
+    <entry id="melina+str_roster_list_low_stress_bark"><![CDATA[전투 준비 완료. 언제든 출동 가능해.]]></entry>
+    <entry id="melina+str_roster_list_low_stress_bark"><![CDATA[분위기가 썩 괜찮군. 다들 좋은 눈이야.]]></entry>
+    <entry id="melina+str_roster_list_low_stress_bark"><![CDATA[이봐. 다음 출정은 언제지? 나를 데려가라고.]]></entry>
+    <entry id="melina+str_roster_list_low_stress_bark"><![CDATA[준비는 되어있어. 언제든 불러.]]></entry>
+	<entry id="melina+str_roster_list_low_stress_bark"><![CDATA[*가볍게 그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_roster_list_medium_stress_bark"><![CDATA[뭐, 견딜만 해. 다음 출정은 언제지?]]></entry>
+    <entry id="melina+str_roster_list_medium_stress_bark"><![CDATA[준비 됐어. 다시 한 번 갈 수 있어.]]></entry>
+    <entry id="melina+str_roster_list_medium_stress_bark"><![CDATA[*그르릉거리는 소리*.]]></entry>
+    <entry id="melina+str_roster_list_high_stress_bark"><![CDATA[제길. 아직 문제 없어. 더 한 것도 겪어봤다고.]]></entry>	
+    <entry id="melina+str_roster_list_high_stress_bark"><![CDATA[...문제 없다니까 그러네. 뭐야? 그 눈. 왜 그렇게 쳐다봐?]]></entry>	
+    <entry id="melina+str_roster_list_high_stress_bark"><![CDATA[*위협적으로 그르릉거리는 소리*.]]></entry>	
+
+    <entry id="melina+str_roster_list_bar_bark"><![CDATA[그래... 내가 관리국에 있었을 때 말이야...]]></entry>
+    <entry id="melina+str_roster_list_gambling_bark"><![CDATA[이봐 잠깐, 주사위 굴리는 소리가 이상한데?]]></entry>
+    <entry id="melina+str_roster_list_brothel_bark"><![CDATA[긴장하지 마. 남자같이 섬세하지 못한 것들은 제쳐두고, 나랑 놀아 보자고.]]></entry>
+    <entry id="melina+str_roster_list_meditation_bark"><![CDATA[*작게 그르릉거리는 소리*]]></entry>	
+    <entry id="melina+str_roster_list_prayer_bark"><![CDATA[... 이 곳 기도문은 잘 모르는데. 상관 없지?]]></entry>
+    <entry id="melina+str_roster_list_flagellation_bark"><![CDATA[*거친 숨소리*]]></entry>	
+    <entry id="melina+str_roster_list_treatment_bark"><![CDATA[*거칠게 그르릉거리는 소리*]]></entry>
+	<entry id="melina+str_roster_list_treatment_bark"><![CDATA[젠장! 포로 수용소에서도 이러진 않았어!]]></entry>
+	<entry id="melina+str_roster_list_treatment_bark"><![CDATA[아악! 이건 비인도적이야!]]></entry>
+    <entry id="melina+str_roster_list_disease_treatment_bark"><![CDATA[젠장! 알타나의 야전병원이 차라리 그립군!]]></entry>
+    <entry id="melina+str_roster_list_disease_treatment_bark"><![CDATA[그 치료법, 검증된 것 맞아? 어어..! 거머리는 왜 들고오는거야!]]></entry>
+    <entry id="melina+str_roster_list_disease_treatment_bark"><![CDATA[제길! 그 메스, 제대로 소독 된 것 맞지?!]]></entry>
+    <entry id="melina+str_roster_list_bar_bark"><![CDATA[죽이는데. 마을은 개판인데 술집은 제대로군.]]></entry>
+    <entry id="melina+str_roster_list_gambling_bark"><![CDATA[한 장 교환. 아니, 두 장. 잠깐, 방금 밑장 뺀 거 아니지?]]></entry>
+    <entry id="melina+str_roster_list_brothel_bark"><![CDATA[이리 와, 아가씨. 여자랑은 처음인가? 괜찮아. 힘 빼. 거칠게 다루진 않을테니.]]></entry>
+    <entry id="melina+str_roster_list_meditation_bark"><![CDATA[...]]></entry>	
+    <entry id="melina+str_roster_list_prayer_bark"><![CDATA[하아... 내가 신을 찾게 될 줄이야.]]></entry>
+    <entry id="melina+str_roster_list_flagellation_bark"><![CDATA[*거칠게 그르릉거리는 소리*]]></entry>	
+
+    <entry id="melina+str_quest_too_hard"><![CDATA[잠깐, 이건 거의 자살임무인데. 날 죽일 셈인가?]]></entry>
+    <entry id="melina+str_quest_too_hard"><![CDATA[이런 무모한 작전에 어울릴 수는 없어. 분명 몇 명 죽어서 돌아올걸.]]></entry>
+    <entry id="melina+str_quest_too_hard"><![CDATA[젠장, 이곳에 가기엔 아직 준비가 모자라다고! 장비도, 물자도!]]></entry>
+    <entry id="melina+str_quest_too_easy"><![CDATA[이건 전력 낭비다. 좀 더 현명한 판단을 바라지.]]></entry>	
+    <entry id="melina+str_quest_too_easy"><![CDATA[네 눈은 옹이구멍인가? 이건 명백한 전력 낭비야.]]></entry>	
+    <entry id="melina+str_quest_too_easy"><![CDATA[어이. 이런 데서 뭘 하겠다는 거야? 적진은 저쪽이라고.]]></entry>	
+
+    <entry id="melina+str_keep_loot_string"><![CDATA[이건 내가 개인적으로 조사 한 뒤에 돌려주도록 하지.]]></entry>	
+    <entry id="melina+str_keep_loot_string"><![CDATA[위험할지도 모르니, 내가 맡아두지.]]></entry>	
+    <entry id="melina+str_keep_loot_string"><![CDATA[*그르릉거리는 소리*]]></entry>	
+
+    <entry id="melina+str_bark_rest"><![CDATA[*가볍게 그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_bark_stress_partyhigh"><![CDATA[정신 차려. 살아 돌아갈 수 있어.]]></entry>
+    <entry id="melina+str_bark_stress_partyhigh"><![CDATA[정신안정제가 필요하겠는데.]]></entry>
+    <entry id="melina+str_bark_stress_partylow"><![CDATA[*가볍게 그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_bark_stress_partylow"><![CDATA[눈빛이 돌아왔군. 그렇게만 하라고.]]></entry>
+    <entry id="melina+str_bark_hp_selflow"><![CDATA[윽.. 아직은 버틸만 해.]]></entry>
+    <entry id="melina+str_bark_hp_selflow"><![CDATA[*작은 신음 소리*]]></entry>
+    <entry id="melina+str_bark_hp_selflow"><![CDATA[...전투자극제가 필요하겠는데.]]></entry>
+    <entry id="melina+str_bark_hp_selfhigh"><![CDATA[하아... 좀 살 것 같군. 나쁘지 않아.]]></entry>
+    <entry id="melina+str_bark_hp_selfhigh"><![CDATA[*그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_bark_hp_selfhigh"><![CDATA[좋아. 다시 가보자고.]]></entry>
+    <entry id="melina+str_bark_stress_selflow"><![CDATA[난 아직 멀쩡해. 상황이 나쁘지 않다는 뜻이지.]]></entry>
+    <entry id="melina+str_bark_stress_selflow"><![CDATA[좀 낫군. 상황이 나쁘지 않게 굴러가고 있어.]]></entry>
+    <entry id="melina+str_bark_stress_selfhigh"><![CDATA[제길, 난 아직 괜찮아. 신경쓰지 마.]]></entry>
+    <entry id="melina+str_bark_stress_selfhigh"><![CDATA[*거칠게 그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_bark_party_great_condition"><![CDATA[이대로만 가면 별 탈 없이 돌아가겠군.]]></entry>
+    <entry id="melina+str_bark_party_great_condition"><![CDATA[다들 제법인데. 눈빛이 살아있어.]]></entry>
+    <entry id="melina+str_bark_party_great_condition"><![CDATA[타지의 전사들도 눈빛이 나쁘지 않군.]]></entry>
+    <entry id="melina+str_bark_party_poor_condition"><![CDATA[정신 똑바로 차리라고. 할 수 있는 것 부터 해.]]></entry>
+    <entry id="melina+str_bark_party_poor_condition"><![CDATA[이상한 생각 하지마. 눈 앞의 문제에 집중해.]]></entry>
+    <entry id="melina+str_bark_party_poor_condition"><![CDATA[사상자가 나오기 전에, 퇴각하는 것도 염두에 두라고.]]></entry>
+    <entry id="melina+str_bark_firewood_low"><![CDATA[장작불이 꺼져가는군. 뭐, 제 역할은 다 했지. 나쁘지 않은 밤이야.]]></entry>
+    <entry id="melina+str_bark_provisions_low"><![CDATA[보급품이 얼마 남지 않았어. 남은 것들을 고려해서 진군하자고.]]></entry>
+    <entry id="melina+str_bark_provisions_high"><![CDATA[보급 담당이 누구인진 모르겠지만, 상당히 유능하군. 키스라도 해주고 싶어.]]></entry>
+    <entry id="melina+str_bark_firewood_high"><![CDATA[*가볍게 그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_bark_companionship"><![CDATA[다들 잘하고 있어. 이대로 가면 무사히 귀환할 수 있을걸.]]></entry>
+    <entry id="melina+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[제길. 못 볼걸 봤어.]]></entry>
+    <entry id="melina+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[*거친 숨소리*]]></entry>
+    <entry id="melina+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[잠깐, 너 얼굴이...! ...아니, 내 착각인가..?]]></entry>
+    <entry id="melina+str_quest_darkest_dungeon"><![CDATA[이곳이 가장 깊은 작전구역인가. 불안한 예감이 드는데.]]></entry>
+    <entry id="melina+str_quest_darkest_dungeon"><![CDATA[명령이라면 따르도록 하지. 어차피 언젠가는 가야 했으니까.]]></entry>
+    <entry id="melina+str_quest_darkest_dungeon"><![CDATA[다녀오면 보고서를 꼼꼼하게 작성하도록 하지. 미지의 영역이니.]]></entry>
+
+
+
+
+    <entry id="melina+str_bark_torch_0"><![CDATA[젠장, 한 치 앞도 안 보이는군. 다들 귀를 열고 소리를 잘 듣도록 해.]]></entry>
+    <entry id="melina+str_bark_torch_0"><![CDATA[*작게 그르릉거리는 소리*]]></entry>
+    <entry id="melina+str_bark_torch_4"><![CDATA[밝으니 좀 낫네. 기습당할 일은 없겠어.]]></entry>
+    <entry id="melina+str_bark_torch_4"><![CDATA[횃불이 이렇게 좋은 물건일 줄이야.]]></entry>
+    <entry id="melina+str_bark_torch_2"><![CDATA[흠.. 손전등이 필요하겠는걸.]]></entry>
+    <entry id="melina+str_bark_torch_2"><![CDATA[시야가 그리 좋지는 않군.]]></entry>
+
+
+
+
+
+    <entry id="melina+str_boss_miller_harvest"><![CDATA[이거 위험한데.]]></entry>
+    <entry id="melina+str_boss_miller_grind"><![CDATA[이런!]]></entry>	
+    <entry id="melina+str_boss_miller_sadness"><![CDATA[*조금 거칠어진 숨소리*]]></entry>
+	
+	
+	
+	  <entry id="melina+str_monster_user_selected_targets_kill_pill"><![CDATA[...기다려줘, 루비...]]></entry>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_melina_CROSSFIRE_TRAY_COOLDOWN_TT"><![CDATA[교차 사격 재사용 대기]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_melina_COOLDOWN_TT"><![CDATA[{colour_start|notable}재사용 대기: 2차례{colour_end}]]></entry>
+	
+  </language>
+</root>
+

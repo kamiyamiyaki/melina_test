@@ -1,0 +1,107 @@
+//Single shot
+
+effect: .name "melina dmg marked 1".target "performer" .chance 100%	.curio_result_type "positive" .keyStatus "tagged"  .combat_stat_buff 1 .damage_low_multiply 40%  .damage_high_multiply 40%  .on_hit true .on_miss false
+effect: .name "melina dmg marked 2".target "performer" .chance 100%	.curio_result_type "positive" .keyStatus "tagged"  .combat_stat_buff 1 .damage_low_multiply 45%  .damage_high_multiply 45%  .on_hit true .on_miss false
+effect: .name "melina dmg marked 3".target "performer" .chance 100%	.curio_result_type "positive" .keyStatus "tagged"  .combat_stat_buff 1 .damage_low_multiply 50%  .damage_high_multiply 50%  .on_hit true .on_miss false
+effect: .name "melina dmg marked 4".target "performer" .chance 100%	.curio_result_type "positive" .keyStatus "tagged"  .combat_stat_buff 1 .damage_low_multiply 55%  .damage_high_multiply 55%  .on_hit true .on_miss false
+effect: .name "melina dmg marked 5".target "performer" .chance 100%	.curio_result_type "positive" .keyStatus "tagged"  .combat_stat_buff 1 .damage_low_multiply 60%  .damage_high_multiply 60%  .on_hit true .on_miss false
+
+
+
+//Angled entry
+
+effect: .name "melina riposte 1"  .target "performer" .curio_result_type "positive" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .duration 2  .on_hit true .on_miss true    .queue true 
+effect: .name "melina riposte 2"  .target "performer" .curio_result_type "positive" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .duration 2  .on_hit true .on_miss true    .queue true 
+effect: .name "melina riposte 3"  .target "performer" .curio_result_type "positive" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .duration 2  .on_hit true .on_miss true    .queue true 
+effect: .name "melina riposte 4"  .target "performer" .curio_result_type "positive" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .duration 2  .on_hit true .on_miss true    .queue true 
+effect: .name "melina riposte 5"  .target "performer" .curio_result_type "positive" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .duration 2  .on_hit true .on_miss true    .queue true 
+
+effect: .name "melina Dodge 1" .target "performer" .curio_result_type "positive" .chance 100% .duration 3 .combat_stat_buff 1 .defense_rating_add 10%  .on_hit true .on_miss true	.queue true
+effect: .name "melina Dodge 2" .target "performer" .curio_result_type "positive" .chance 100% .duration 3 .combat_stat_buff 1 .defense_rating_add 14%  .on_hit true .on_miss true	.queue true
+effect: .name "melina Dodge 3" .target "performer" .curio_result_type "positive" .chance 100% .duration 3 .combat_stat_buff 1 .defense_rating_add 17%  .on_hit true .on_miss true	.queue true
+effect: .name "melina Dodge 4" .target "performer" .curio_result_type "positive" .chance 100% .duration 3 .combat_stat_buff 1 .defense_rating_add 21%  .on_hit true .on_miss true	.queue true
+effect: .name "melina Dodge 5" .target "performer" .curio_result_type "positive" .chance 100% .duration 3 .combat_stat_buff 1 .defense_rating_add 25%  .on_hit true .on_miss true	.queue true
+
+effect: .name "melina shuffletarget 1" .target "target" .shuffletarget	.chance 100% .on_hit true .on_miss false 	 .can_apply_on_death true
+effect: .name "melina shuffletarget 2" .target "target" .shuffletarget	.chance 110% .on_hit true .on_miss false	 .can_apply_on_death true
+effect: .name "melina shuffletarget 3" .target "target" .shuffletarget	.chance 120% .on_hit true .on_miss false	 .can_apply_on_death true
+effect: .name "melina shuffletarget 4" .target "target" .shuffletarget	.chance 130% .on_hit true .on_miss false	 .can_apply_on_death true
+effect: .name "melina shuffletarget 5" .target "target" .shuffletarget	.chance 140% .on_hit true .on_miss false	 .can_apply_on_death true
+effect: .name "melina shuffletarget 6" .target "target" .shuffletarget	.chance 150% .on_hit true .on_miss false	 .can_apply_on_death true
+
+effect: .name "melina debuff a 1" .target "target" .curio_result_type "negative" .chance 110% .duration 3 .combat_stat_buff 1 .attack_rating_add -3%  .damage_low_multiply -9% .damage_high_multiply -9% .on_hit true .on_miss false  .queue true
+effect: .name "melina debuff a 2" .target "target" .curio_result_type "negative" .chance 120% .duration 3 .combat_stat_buff 1 .attack_rating_add -3%  .damage_low_multiply -10% .damage_high_multiply -10% .on_hit true .on_miss false  .queue true
+effect: .name "melina debuff a 3" .target "target" .curio_result_type "negative" .chance 130% .duration 3 .combat_stat_buff 1 .attack_rating_add -4%  .damage_low_multiply -11% .damage_high_multiply -11% .on_hit true .on_miss false  .queue true
+effect: .name "melina debuff a 4" .target "target" .curio_result_type "negative" .chance 140% .duration 3 .combat_stat_buff 1 .attack_rating_add -4%  .damage_low_multiply -11% .damage_high_multiply -11% .on_hit true .on_miss false  .queue true
+effect: .name "melina debuff a 5" .target "target" .curio_result_type "negative" .chance 150% .duration 3 .combat_stat_buff 1 .attack_rating_add -5%  .damage_low_multiply -12% .damage_high_multiply -12% .on_hit true .on_miss false  .queue true
+
+effect: .name "melina speed buff 1" .target "performer" .curio_result_type "positive" .chance 100% .combat_stat_buff 1 .duration 3 .speed_rating_add 1 	.on_hit true .on_miss false .queue true .apply_once true
+effect: .name "melina speed buff 2" .target "performer" .curio_result_type "positive" .chance 100% .combat_stat_buff 1 .duration 3 .speed_rating_add 1 	.on_hit true .on_miss false .queue true .apply_once true
+effect: .name "melina speed buff 3" .target "performer" .curio_result_type "positive" .chance 100% .combat_stat_buff 1 .duration 3 .speed_rating_add 1 	.on_hit true .on_miss false .queue true .apply_once true
+effect: .name "melina speed buff 4" .target "performer" .curio_result_type "positive" .chance 100% .combat_stat_buff 1 .duration 3 .speed_rating_add 2 	.on_hit true .on_miss false .queue true .apply_once true
+effect: .name "melina speed buff 5" .target "performer" .curio_result_type "positive" .chance 100% .combat_stat_buff 1 .duration 3 .speed_rating_add 2 	.on_hit true .on_miss false .queue true .apply_once true
+
+
+
+//Dive kick
+
+effect: .name "melina debuff b 1" .target "target" .curio_result_type "negative" .chance 110% .duration 2 .combat_stat_buff 1  .speed_rating_add -6 .on_hit true .on_miss false  .queue true
+effect: .name "melina debuff b 2" .target "target" .curio_result_type "negative" .chance 120% .duration 2 .combat_stat_buff 1  .speed_rating_add -7 .on_hit true .on_miss false  .queue true
+effect: .name "melina debuff b 3" .target "target" .curio_result_type "negative" .chance 130% .duration 2 .combat_stat_buff 1  .speed_rating_add -8 .on_hit true .on_miss false  .queue true
+effect: .name "melina debuff b 4" .target "target" .curio_result_type "negative" .chance 140% .duration 2 .combat_stat_buff 1  .speed_rating_add -9 .on_hit true .on_miss false  .queue true
+effect: .name "melina debuff b 5" .target "target" .curio_result_type "negative" .chance 150% .duration 2 .combat_stat_buff 1  .speed_rating_add -10 .on_hit true .on_miss false  .queue true
+
+//Crossfire
+
+effect: .name "Build to Crossfire" .target "performer" .curio_result_type "positive" .chance 100% .buff_ids "build_to_crossfire_dmgL" "build_to_crossfire_dmgH" .on_hit true .on_miss false .apply_once true .queue true .duration 4
+
+effect: .name "fake_bleed" .target "performer" .chance 0% .on_hit false .on_miss false .dotBleed 1 .duration 3 .has_description false
+
+effect: .name "melina_crossfire_cooldown" .target "performer" .chance 100% .on_hit true .on_miss false .apply_once true .buff_ids "melina_DISABLE_BLEED" "melina_CROSSFIRE_TRAY_COOLDOWN_TT" .buff_is_clear_debuff_valid false .duration 3 .has_description false
+effect: .name "melina_crossfire_cooldown_TT" .target "performer" .chance 100% .on_hit true .on_miss false .buff_ids "melina_COOLDOWN_TT" .skill_instant true 
+
+effect: .name "melina debuff c 1" .target "performer" .curio_result_type "negative" .chance 100% .duration 3 .combat_stat_buff 1  .speed_rating_add -4 .on_hit true .on_miss false  .queue true
+
+
+
+//Stimualnt Pack
+
+effect: .name "stim stressheal 1" .target "target" .curio_result_type "positive" .chance 100% .healstress 8	.on_hit true .on_miss false .queue true
+effect: .name "stim stressheal 2" .target "target" .curio_result_type "positive" .chance 100% .healstress 9	.on_hit true .on_miss false .queue true
+effect: .name "stim stressheal 3" .target "target" .curio_result_type "positive" .chance 100% .healstress 10	.on_hit true .on_miss false .queue true
+effect: .name "stim stressheal 4" .target "target" .curio_result_type "positive" .chance 100% .healstress 11	.on_hit true .on_miss false .queue true
+effect: .name "stim stressheal 5" .target "target" .curio_result_type "positive" .chance 100% .healstress 12	.on_hit true .on_miss false .queue true
+
+effect: .name "stim stress resistance 1" .target "target" .curio_result_type "positive" .chance 100% .buff_ids "STIMStressResistance1" .on_hit true .on_miss false .queue true
+effect: .name "stim stress resistance 2" .target "target" .curio_result_type "positive" .chance 100% .buff_ids "STIMStressResistance2" .on_hit true .on_miss false .queue true
+effect: .name "stim stress resistance 3" .target "target" .curio_result_type "positive" .chance 100% .buff_ids "STIMStressResistance3" .on_hit true .on_miss false .queue true
+effect: .name "stim stress resistance 4" .target "target" .curio_result_type "positive" .chance 100% .buff_ids "STIMStressResistance4" .on_hit true .on_miss false .queue true
+effect: .name "stim stress resistance 5" .target "target" .curio_result_type "positive" .chance 100% .buff_ids "STIMStressResistance5" .on_hit true .on_miss false .queue true
+
+effect: .name "stim speed buff" .target "target" .curio_result_type "positive" .chance 100% .combat_stat_buff 1 .duration 2 .speed_rating_add 3  .on_hit true .on_miss false .queue true .apply_once true
+
+effect: .name "stim blight 1" .target "target" .curio_result_type "negative" .chance 80%  .dotPoison 1 .duration 3	.on_hit true .on_miss false
+effect: .name "stim blight 2" .target "target" .curio_result_type "negative" .chance 90%  .dotPoison 1 .duration 3	.on_hit true .on_miss false
+effect: .name "stim blight 3" .target "target" .curio_result_type "negative" .chance 100%  .dotPoison 1 .duration 3	.on_hit true .on_miss false
+effect: .name "stim blight 4" .target "target" .curio_result_type "negative" .chance 110%  .dotPoison 1 .duration 3	.on_hit true .on_miss false
+effect: .name "stim blight 5" .target "target" .curio_result_type "negative" .chance 120%  .dotPoison 1 .duration 3	.on_hit true .on_miss false
+
+
+
+
+///dummy data
+
+
+
+effect: .name "melina Distract 1" .target "target" .curio_result_type "negative" .chance 110% .duration 3 .combat_stat_buff 1 .attack_rating_add -5% .on_hit true .on_miss false .queue true
+effect: .name "melina Distract 2" .target "target" .curio_result_type "negative" .chance 120% .duration 3 .combat_stat_buff 1 .attack_rating_add -5% .on_hit true .on_miss false .queue true
+effect: .name "melina Distract 3" .target "target" .curio_result_type "negative" .chance 130% .duration 3 .combat_stat_buff 1 .attack_rating_add -6% .on_hit true .on_miss false .queue true
+effect: .name "melina Distract 4" .target "target" .curio_result_type "negative" .chance 140% .duration 3 .combat_stat_buff 1 .attack_rating_add -6% .on_hit true .on_miss false .queue true
+effect: .name "melina Distract 5" .target "target" .curio_result_type "negative" .chance 150% .duration 3 .combat_stat_buff 1 .attack_rating_add -7% .on_hit true .on_miss false .queue true
+
+effect: .name "melina Intimidate 1" .target "target" .curio_result_type "negative" .chance 110% .duration 3  .combat_stat_buff 1  .damage_low_multiply -10% .damage_high_multiply -10%	.on_hit true .on_miss false
+effect: .name "melina Intimidate 2" .target "target" .curio_result_type "negative" .chance 120% .duration 3  .combat_stat_buff 1  .damage_low_multiply -12% .damage_high_multiply -12%	.on_hit true .on_miss false
+effect: .name "melina Intimidate 3" .target "target" .curio_result_type "negative" .chance 130% .duration 3  .combat_stat_buff 1  .damage_low_multiply -13% .damage_high_multiply -13%	.on_hit true .on_miss false
+effect: .name "melina Intimidate 4" .target "target" .curio_result_type "negative" .chance 140% .duration 3  .combat_stat_buff 1  .damage_low_multiply -14% .damage_high_multiply -14%	.on_hit true .on_miss false
+effect: .name "melina Intimidate 5" .target "target" .curio_result_type "negative" .chance 150% .duration 3  .combat_stat_buff 1  .damage_low_multiply -15% .damage_high_multiply -15%	.on_hit true .on_miss false
+

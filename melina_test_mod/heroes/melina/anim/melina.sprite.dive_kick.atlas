@@ -1,0 +1,13 @@
+
+initiator.sprite.dive_kick.png
+size: 944,777
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dive_kick
+  rotate: false
+  xy: 2, 2
+  size: 940, 773
+  orig: 940, 773
+  offset: 0, 0
+  index: -1

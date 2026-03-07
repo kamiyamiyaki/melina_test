@@ -1,0 +1,13 @@
+
+initiator.sprite.single_shot_retake.png
+size: 815,632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+single_shot_retake
+  rotate: false
+  xy: 2, 2
+  size: 811, 628
+  orig: 811, 628
+  offset: 0, 0
+  index: -1

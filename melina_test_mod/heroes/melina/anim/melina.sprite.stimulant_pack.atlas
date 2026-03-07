@@ -1,0 +1,20 @@
+
+initiator.sprite.stimulant_pack.png
+size: 727,752
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow2
+  rotate: true
+  xy: 2, 2
+  size: 748, 100
+  orig: 748, 100
+  offset: 0, 0
+  index: -1
+stimulant_pack
+  rotate: true
+  xy: 104, 109
+  size: 641, 621
+  orig: 641, 621
+  offset: 0, 0
+  index: -1

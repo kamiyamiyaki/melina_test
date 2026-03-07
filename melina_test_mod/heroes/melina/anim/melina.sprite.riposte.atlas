@@ -1,0 +1,13 @@
+
+initiator.sprite.riposte.png
+size: 918,737
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+reposte
+  rotate: false
+  xy: 2, 2
+  size: 914, 733
+  orig: 914, 733
+  offset: 0, 0
+  index: -1

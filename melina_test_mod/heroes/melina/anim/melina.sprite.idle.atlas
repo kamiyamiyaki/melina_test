@@ -1,0 +1,69 @@
+
+melina.sprite.idle.png
+size: 1280,327
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1048, 74
+  size: 184, 142
+  orig: 184, 142
+  offset: 0, 0
+  index: -1
+Cape_Back
+  rotate: true
+  xy: 2, 2
+  size: 323, 444
+  orig: 323, 444
+  offset: 0, 0
+  index: -1
+Cape_Front
+  rotate: true
+  xy: 448, 2
+  size: 323, 404
+  orig: 323, 404
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 1192, 75
+  size: 79, 102
+  orig: 79, 102
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 1215, 179
+  size: 53, 99
+  orig: 53, 99
+  offset: 0, 0
+  index: -1
+Hair_Left
+  rotate: true
+  xy: 1192, 26
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+Hair_Right
+  rotate: false
+  xy: 1215, 280
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 854, 26
+  size: 232, 192
+  orig: 232, 192
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 854, 260
+  size: 359, 65
+  orig: 359, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,44 @@
+{
+   "entries":
+   [
+      {
+         "id" : "melina_trinket_cc_1",
+         "buffs" : 
+         [
+            "melina_TRINKET_MAXHP_B2",
+            "melina_TRINKET_DEF_B2",
+            "melina_TRINKET_STUNRESIST_B1",
+            "melina_TRINKET_STRESSDMG_B2"
+         ],
+         "hero_class_requirements":
+         [
+            "melina"
+         ],
+		 "set_id" : "cc_melina",
+         "rarity" : "crimson_court",
+         "price" : 50000,
+         "limit" : 1,
+         "origin_dungeon" : "courtyard"
+      },
+      {
+         "id" : "melina_trinket_cc_2",
+         "buffs" : 
+         [
+            "melina_TRINKET_SPD_B2",
+            "melina_TRINKET_ACC_B3",
+            "melina_TRINKET_CRIT_B2",
+            "melina_TRINKET_DMG_BUFF_L",
+            "melina_TRINKET_DMG_BUFF_H"
+         ],
+         "hero_class_requirements":
+         [
+            "melina"
+         ],
+		 "set_id" : "cc_melina",
+         "rarity" : "crimson_court",
+         "price" : 50000,
+         "limit" : 1,
+         "origin_dungeon" : "courtyard"
+      }
+   ]
+}

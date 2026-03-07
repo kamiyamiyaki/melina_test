@@ -1,0 +1,24 @@
+commonfx: .deathfx death_medium
+
+weapon: .name "melina_weapon_0" .icon "eqp_weapon_0.png"
+weapon: .name "melina_weapon_1" .icon "eqp_weapon_1.png"
+weapon: .name "melina_weapon_2" .icon "eqp_weapon_2.png"
+weapon: .name "melina_weapon_3" .icon "eqp_weapon_3.png"
+weapon: .name "melina_weapon_4" .icon "eqp_weapon_4.png"
+
+armour: .name "melina_armour_0" .icon "eqp_armour_0.png"
+armour: .name "melina_armour_1" .icon "eqp_armour_1.png"
+armour: .name "melina_armour_2" .icon "eqp_armour_2.png"
+armour: .name "melina_armour_3" .icon "eqp_armour_3.png"
+armour: .name "melina_armour_4" .icon "eqp_armour_4.png"
+
+combat_skill: .id "single_shot" .icon "one" .anim "single_shot_retake" .fx "single_shot_retake_fx" .targchestfx "single_shot_target"	
+combat_skill: .id "angled_entry" .icon "two" .anim "attack_angled_entry" .fx "engled_entry_fx" .targchestfx "angled_entry_target"
+combat_skill: .id "dive_kick" .icon "three" .anim "dive_kick" .fx "dive_kick_fx" .targchestfx "blood_splatter"
+combat_skill: .id "crossfire" .icon "four" .anim "crossfire" .fx "crossfire_fx" .targchestfx "crossfire_target"
+combat_skill: .id "kickback" .icon "five" .anim "kickback" .fx "kickback_fx" .targfx "blood_splatter"
+combat_skill: .id "tracer_bullet" .icon "six" .anim "tracer_bullet" .fx "tracer_bullet_fx" .targchestfx "mark_target"
+combat_skill: .id "stimulant_pack" .icon "seven" .anim "stimulant_pack" .fx "stimulant_pack_fx" .targchestfx "stimulant_pack_target"
+
+combat_move_skill: .id "move" .icon "generic_move" .anim "idle"
+riposte_skill: .id "riposte1" .anim "riposte" .fx "riposte_fx" .targchestfx "single_shot_target"

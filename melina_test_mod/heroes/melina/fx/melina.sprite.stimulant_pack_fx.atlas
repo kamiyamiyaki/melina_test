@@ -1,0 +1,34 @@
+
+initiator.sprite.stimulant_pack_fx.png
+size: 925,642
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liquid_glow
+  rotate: true
+  xy: 621, 25
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+particles
+  rotate: false
+  xy: 621, 108
+  size: 127, 169
+  orig: 127, 169
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 621, 279
+  size: 302, 361
+  orig: 302, 361
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 638, 617
+  orig: 638, 617
+  offset: 0, 0
+  index: -1
