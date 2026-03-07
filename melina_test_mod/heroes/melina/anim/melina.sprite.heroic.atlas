@@ -1,27 +1,34 @@
 
-initiator.sprite.heroic.png
-size: 2338,1131
+melina.sprite.heroic.png
+size: 3038,825
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+Fire
+  rotate: false
+  xy: 1916, 27
+  size: 754, 796
+  orig: 754, 796
+  offset: 0, 0
+  index: -1
 background
   rotate: false
-  xy: 2, 2
-  size: 1341, 1127
-  orig: 1341, 1127
+  xy: 1024, 6
+  size: 890, 817
+  orig: 890, 817
   offset: 0, 0
   index: -1
 halo
   rotate: false
-  xy: 1345, 82
-  size: 309, 298
-  orig: 309, 298
+  xy: 2672, 460
+  size: 364, 363
+  orig: 364, 363
   offset: 0, 0
   index: -1
-heroic_B
-  rotate: false
-  xy: 1345, 382
-  size: 991, 747
-  orig: 991, 747
+heroic
+  rotate: true
+  xy: 2, 2
+  size: 821, 1020
+  orig: 821, 1020
   offset: 0, 0
   index: -1

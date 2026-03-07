@@ -1,0 +1,27 @@
+
+meline.sprite.afflicted.png
+size: 2498,862
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+afflicted
+  rotate: true
+  xy: 1024, 101
+  size: 759, 916
+  orig: 759, 916
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 2
+  size: 1020, 858
+  orig: 1020, 858
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 1942, 310
+  size: 554, 550
+  orig: 554, 550
+  offset: 0, 0
+  index: -1

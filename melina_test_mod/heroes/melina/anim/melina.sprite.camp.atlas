@@ -1,20 +1,20 @@
 
-initiator.sprite.camp.png
-size: 640,836
+melina.sprite.camp.png
+size: 414,442
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-camp
-  rotate: true
-  xy: 2, 118
-  size: 716, 591
-  orig: 716, 591
-  offset: 0, 0
-  index: -1
-chadow
+Main
   rotate: false
   xy: 2, 2
-  size: 636, 114
-  orig: 636, 114
+  size: 343, 438
+  orig: 343, 438
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 347, 81
+  size: 359, 65
+  orig: 359, 65
   offset: 0, 0
   index: -1
