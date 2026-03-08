@@ -1,0 +1,27 @@
+
+melina.sprite.sacred_charge.png
+size: 1655,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back
+  rotate: false
+  xy: 912, 69
+  size: 741, 430
+  orig: 741, 430
+  offset: 0, 0
+  index: -1
+Main
+  rotate: false
+  xy: 2, 4
+  size: 908, 495
+  orig: 908, 495
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 912, 2
+  size: 359, 65
+  orig: 359, 65
+  offset: 0, 0
+  index: -1

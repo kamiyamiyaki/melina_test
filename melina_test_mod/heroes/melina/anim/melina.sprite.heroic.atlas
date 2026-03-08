@@ -1,34 +1,40 @@
 
 melina.sprite.heroic.png
-size: 3038,825
+size: 4095,3544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: true
+  xy: 2053, 1321
+  size: 2221, 2040
+  orig: 2221, 2040
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 2
+  size: 1144, 992
+  orig: 1144, 992
+  offset: 0, 0
+  index: -1
+heroic
+  rotate: false
+  xy: 2, 996
+  size: 2049, 2546
+  orig: 2049, 2546
+  offset: 0, 0
+  index: -1
+
+melina.sprite.heroic2.png
+size: 1942,2029
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Fire
   rotate: false
-  xy: 1916, 27
-  size: 754, 796
-  orig: 754, 796
-  offset: 0, 0
-  index: -1
-background
-  rotate: false
-  xy: 1024, 6
-  size: 890, 817
-  orig: 890, 817
-  offset: 0, 0
-  index: -1
-halo
-  rotate: false
-  xy: 2672, 460
-  size: 364, 363
-  orig: 364, 363
-  offset: 0, 0
-  index: -1
-heroic
-  rotate: true
   xy: 2, 2
-  size: 821, 1020
-  orig: 821, 1020
+  size: 1938, 2025
+  orig: 1938, 2025
   offset: 0, 0
   index: -1
