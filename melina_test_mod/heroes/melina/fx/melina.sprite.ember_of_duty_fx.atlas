@@ -1,0 +1,132 @@
+
+melina.sprite.ember_of_duty_fx.png
+size: 1902,2055
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_FX_Fire
+  rotate: false
+  xy: 2, 1401
+  size: 652, 652
+  orig: 652, 652
+  offset: 0, 0
+  index: -1
+2_FX_Fire2
+  rotate: false
+  xy: 2, 1401
+  size: 652, 652
+  orig: 652, 652
+  offset: 0, 0
+  index: -1
+2_FX_Light
+  rotate: false
+  xy: 2, 747
+  size: 652, 652
+  orig: 652, 652
+  offset: 0, 0
+  index: -1
+2_FX_Snow
+  rotate: false
+  xy: 1671, 1300
+  size: 142, 119
+  orig: 142, 119
+  offset: 0, 0
+  index: -1
+2_Fire_Main
+  rotate: false
+  xy: 2, 93
+  size: 652, 652
+  orig: 652, 652
+  offset: 0, 0
+  index: -1
+2_Hand_Down
+  rotate: false
+  xy: 1310, 72
+  size: 318, 299
+  orig: 318, 299
+  offset: 0, 0
+  index: -1
+2_Hand_Up
+  rotate: true
+  xy: 1654, 794
+  size: 484, 234
+  orig: 484, 234
+  offset: 0, 0
+  index: -1
+2_Main
+  rotate: true
+  xy: 1310, 1280
+  size: 372, 359
+  orig: 372, 359
+  offset: 0, 0
+  index: -1
+2_Main_Dark
+  rotate: true
+  xy: 1310, 1654
+  size: 399, 387
+  orig: 399, 387
+  offset: 0, 0
+  index: -1
+2_blood_torch.sprite
+  rotate: true
+  xy: 1310, 771
+  size: 507, 342
+  orig: 507, 342
+  offset: 0, 0
+  index: -1
+FX_BackLight
+  rotate: false
+  xy: 1310, 373
+  size: 340, 396
+  orig: 340, 396
+  offset: 0, 0
+  index: -1
+FX_BackSnow
+  rotate: true
+  xy: 1671, 1421
+  size: 231, 229
+  orig: 231, 229
+  offset: 0, 0
+  index: -1
+FX_Dark
+  rotate: false
+  xy: 1630, 2
+  size: 224, 369
+  orig: 224, 369
+  offset: 0, 0
+  index: -1
+FX_Fire
+  rotate: false
+  xy: 656, 1401
+  size: 652, 652
+  orig: 652, 652
+  offset: 0, 0
+  index: -1
+FX_Light
+  rotate: false
+  xy: 656, 747
+  size: 652, 652
+  orig: 652, 652
+  offset: 0, 0
+  index: -1
+FX_Torch
+  rotate: false
+  xy: 656, 93
+  size: 652, 652
+  orig: 652, 652
+  offset: 0, 0
+  index: -1
+Main
+  rotate: false
+  xy: 1652, 411
+  size: 216, 358
+  orig: 216, 358
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 57
+  size: 181, 34
+  orig: 181, 34
+  offset: 0, 0
+  index: -1

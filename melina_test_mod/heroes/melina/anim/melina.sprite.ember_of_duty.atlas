@@ -1,0 +1,27 @@
+
+melina.sprite.ember_of_duty.png
+size: 630,363
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_Main
+  rotate: false
+  xy: 2, 2
+  size: 372, 359
+  orig: 372, 359
+  offset: 0, 0
+  index: -1
+Main
+  rotate: false
+  xy: 376, 3
+  size: 216, 358
+  orig: 216, 358
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 594, 180
+  size: 181, 34
+  orig: 181, 34
+  offset: 0, 0
+  index: -1
