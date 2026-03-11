@@ -1,0 +1,27 @@
+
+melina.sprite.strength_in_fire.png
+size: 267,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_main
+  rotate: true
+  xy: 2, 2
+  size: 108, 227
+  orig: 108, 227
+  offset: 0, 0
+  index: -1
+02_Main
+  rotate: true
+  xy: 2, 112
+  size: 169, 222
+  orig: 169, 222
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 231, 100
+  size: 181, 34
+  orig: 181, 34
+  offset: 0, 0
+  index: -1

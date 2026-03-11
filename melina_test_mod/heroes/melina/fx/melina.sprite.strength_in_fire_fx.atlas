@@ -1,0 +1,104 @@
+
+melina.sprite.strength_in_fire_fx.png
+size: 3096,619
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_FX_Skill1
+  rotate: false
+  xy: 2806, 58
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+01_FX_Skill2
+  rotate: false
+  xy: 2806, 193
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+01_Fire
+  rotate: false
+  xy: 2, 15
+  size: 602, 602
+  orig: 602, 602
+  offset: 0, 0
+  index: -1
+01_Particles
+  rotate: false
+  xy: 606, 15
+  size: 602, 602
+  orig: 602, 602
+  offset: 0, 0
+  index: -1
+01_main
+  rotate: true
+  xy: 2806, 509
+  size: 108, 227
+  orig: 108, 227
+  offset: 0, 0
+  index: -1
+01_shadow
+  rotate: false
+  xy: 2418, 2
+  size: 116, 244
+  orig: 116, 244
+  offset: 0, 0
+  index: -1
+02_FX_Back
+  rotate: false
+  xy: 2418, 248
+  size: 369, 369
+  orig: 369, 369
+  offset: 0, 0
+  index: -1
+FX_back
+  rotate: false
+  xy: 2418, 248
+  size: 369, 369
+  orig: 369, 369
+  offset: 0, 0
+  index: -1
+02_FX_Skill
+  rotate: false
+  xy: 2951, 193
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+02_Fire
+  rotate: false
+  xy: 1210, 15
+  size: 602, 602
+  orig: 602, 602
+  offset: 0, 0
+  index: -1
+02_Main
+  rotate: true
+  xy: 2806, 338
+  size: 169, 222
+  orig: 169, 222
+  offset: 0, 0
+  index: -1
+02_Snow
+  rotate: false
+  xy: 1814, 15
+  size: 602, 602
+  orig: 602, 602
+  offset: 0, 0
+  index: -1
+02_shadow
+  rotate: false
+  xy: 2536, 5
+  size: 268, 241
+  orig: 268, 241
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 3035, 436
+  size: 181, 34
+  orig: 181, 34
+  offset: 0, 0
+  index: -1
