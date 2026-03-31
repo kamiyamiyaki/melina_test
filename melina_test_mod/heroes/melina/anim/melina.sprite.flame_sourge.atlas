@@ -1,0 +1,48 @@
+
+melina.sprite.flame_sourge.png
+size: 1263,471
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_Main
+  rotate: true
+  xy: 593, 71
+  size: 398, 357
+  orig: 398, 357
+  offset: 0, 0
+  index: -1
+01_gs
+  rotate: false
+  xy: 817, 8
+  size: 181, 34
+  orig: 181, 34
+  offset: 0, 0
+  index: -1
+02_Main
+  rotate: false
+  xy: 2, 2
+  size: 589, 467
+  orig: 589, 467
+  offset: 0, 0
+  index: -1
+02_gs
+  rotate: false
+  xy: 952, 44
+  size: 227, 42
+  orig: 227, 42
+  offset: 0, 0
+  index: -1
+03_Main
+  rotate: false
+  xy: 952, 88
+  size: 309, 381
+  orig: 309, 381
+  offset: 0, 0
+  index: -1
+03_gs
+  rotate: false
+  xy: 593, 28
+  size: 222, 41
+  orig: 222, 41
+  offset: 0, 0
+  index: -1

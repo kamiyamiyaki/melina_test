@@ -1,0 +1,216 @@
+
+melina.sprite.flame_sourge_fx.png
+size: 1659,2066
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_Blood
+  rotate: true
+  xy: 593, 389
+  size: 15, 114
+  orig: 15, 114
+  offset: 0, 0
+  index: -1
+01_Crown
+  rotate: true
+  xy: 1498, 138
+  size: 163, 136
+  orig: 163, 136
+  offset: 0, 0
+  index: -1
+01_Fire
+  rotate: true
+  xy: 1449, 303
+  size: 104, 155
+  orig: 104, 155
+  offset: 0, 0
+  index: -1
+01_Main
+  rotate: false
+  xy: 1075, 656
+  size: 398, 357
+  orig: 398, 357
+  offset: 0, 0
+  index: -1
+01_bg
+  rotate: true
+  xy: 606, 686
+  size: 233, 372
+  orig: 233, 372
+  offset: 0, 0
+  index: -1
+01_circle
+  rotate: true
+  xy: 1475, 610
+  size: 135, 182
+  orig: 135, 182
+  offset: 0, 0
+  index: -1
+01_circle2
+  rotate: false
+  xy: 1449, 409
+  size: 148, 199
+  orig: 148, 199
+  offset: 0, 0
+  index: -1
+01_fire2
+  rotate: true
+  xy: 1498, 14
+  size: 122, 127
+  orig: 122, 127
+  offset: 0, 0
+  index: -1
+01_fire3
+  rotate: true
+  xy: 1333, 56
+  size: 233, 163
+  orig: 233, 163
+  offset: 0, 0
+  index: -1
+01_gs
+  rotate: false
+  xy: 1145, 2
+  size: 181, 34
+  orig: 181, 34
+  offset: 0, 0
+  index: -1
+01_particles
+  rotate: true
+  xy: 790, 37
+  size: 367, 353
+  orig: 367, 353
+  offset: 0, 0
+  index: -1
+01_rim_light
+  rotate: false
+  xy: 2, 1462
+  size: 602, 602
+  orig: 602, 602
+  offset: 0, 0
+  index: -1
+01_shadow
+  rotate: false
+  xy: 1075, 1015
+  size: 410, 368
+  orig: 410, 368
+  offset: 0, 0
+  index: -1
+02_Crown
+  rotate: true
+  xy: 1487, 949
+  size: 204, 170
+  orig: 204, 170
+  offset: 0, 0
+  index: -1
+02_Main
+  rotate: false
+  xy: 2, 389
+  size: 589, 467
+  orig: 589, 467
+  offset: 0, 0
+  index: -1
+02_bg
+  rotate: false
+  xy: 606, 1512
+  size: 512, 552
+  orig: 512, 552
+  offset: 0, 0
+  index: -1
+02_ciecle2
+  rotate: false
+  xy: 1145, 38
+  size: 186, 251
+  orig: 186, 251
+  offset: 0, 0
+  index: -1
+02_circle1
+  rotate: false
+  xy: 1487, 1155
+  size: 169, 228
+  orig: 169, 228
+  offset: 0, 0
+  index: -1
+02_gs
+  rotate: true
+  xy: 980, 692
+  size: 227, 42
+  orig: 227, 42
+  offset: 0, 0
+  index: -1
+02_particles
+  rotate: false
+  xy: 1120, 1673
+  size: 528, 391
+  orig: 528, 391
+  offset: 0, 0
+  index: -1
+02_rim_light
+  rotate: false
+  xy: 2, 858
+  size: 602, 602
+  orig: 602, 602
+  offset: 0, 0
+  index: -1
+02_shadow
+  rotate: true
+  xy: 606, 921
+  size: 589, 467
+  orig: 589, 467
+  offset: 0, 0
+  index: -1
+03_Crown
+  rotate: true
+  xy: 1475, 747
+  size: 200, 166
+  orig: 200, 166
+  offset: 0, 0
+  index: -1
+03_Main
+  rotate: false
+  xy: 479, 6
+  size: 309, 381
+  orig: 309, 381
+  offset: 0, 0
+  index: -1
+03_bg
+  rotate: true
+  xy: 1120, 1385
+  size: 286, 456
+  orig: 286, 456
+  offset: 0, 0
+  index: -1
+03_cross
+  rotate: true
+  xy: 2, 13
+  size: 374, 475
+  orig: 374, 475
+  offset: 0, 0
+  index: -1
+03_gs
+  rotate: true
+  xy: 1578, 1449
+  size: 222, 41
+  orig: 222, 41
+  offset: 0, 0
+  index: -1
+03_jump
+  rotate: false
+  xy: 951, 499
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+03_particles
+  rotate: false
+  xy: 1145, 291
+  size: 302, 363
+  orig: 302, 363
+  offset: 0, 0
+  index: -1
+03_rim_light
+  rotate: true
+  xy: 593, 406
+  size: 278, 356
+  orig: 278, 356
+  offset: 0, 0
+  index: -1
