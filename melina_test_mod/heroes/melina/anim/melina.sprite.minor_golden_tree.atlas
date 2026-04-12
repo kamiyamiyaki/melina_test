@@ -1,0 +1,27 @@
+
+melina.sprite.minor_golden_tree.png
+size: 594,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_main
+  rotate: true
+  xy: 290, 49
+  size: 221, 302
+  orig: 221, 302
+  offset: 0, 0
+  index: -1
+02_main
+  rotate: false
+  xy: 2, 2
+  size: 286, 268
+  orig: 286, 268
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 290, 13
+  size: 181, 34
+  orig: 181, 34
+  offset: 0, 0
+  index: -1

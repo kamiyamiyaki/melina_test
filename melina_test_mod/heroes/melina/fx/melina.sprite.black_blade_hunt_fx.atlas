@@ -1,0 +1,97 @@
+
+melina.sprite.black_blade_hunt_fx.png
+size: 2082,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_Blood
+  rotate: true
+  xy: 1006, 39
+  size: 51, 143
+  orig: 51, 143
+  offset: 0, 0
+  index: -1
+01_Crown
+  rotate: true
+  xy: 1716, 79
+  size: 171, 143
+  orig: 171, 143
+  offset: 0, 0
+  index: -1
+01_Head
+  rotate: false
+  xy: 1861, 9
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+01_Main
+  rotate: true
+  xy: 1716, 252
+  size: 374, 364
+  orig: 374, 364
+  offset: 0, 0
+  index: -1
+01_eye_light
+  rotate: false
+  xy: 2, 8
+  size: 1002, 1002
+  orig: 1002, 1002
+  offset: 0, 0
+  index: -1
+01_rim_light
+  rotate: true
+  xy: 1771, 628
+  size: 382, 289
+  orig: 382, 289
+  offset: 0, 0
+  index: -1
+01_shadow
+  rotate: false
+  xy: 1384, 637
+  size: 385, 373
+  orig: 385, 373
+  offset: 0, 0
+  index: -1
+02_Blood
+  rotate: true
+  xy: 1151, 39
+  size: 51, 132
+  orig: 51, 132
+  offset: 0, 0
+  index: -1
+02_Main
+  rotate: true
+  xy: 1006, 552
+  size: 458, 376
+  orig: 458, 376
+  offset: 0, 0
+  index: -1
+02_crown
+  rotate: false
+  xy: 1861, 114
+  size: 163, 136
+  orig: 163, 136
+  offset: 0, 0
+  index: -1
+02_rim_light
+  rotate: true
+  xy: 1384, 203
+  size: 432, 330
+  orig: 432, 330
+  offset: 0, 0
+  index: -1
+02_shadow
+  rotate: true
+  xy: 1006, 92
+  size: 458, 376
+  orig: 458, 376
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1006, 2
+  size: 188, 35
+  orig: 188, 35
+  offset: 0, 0
+  index: -1

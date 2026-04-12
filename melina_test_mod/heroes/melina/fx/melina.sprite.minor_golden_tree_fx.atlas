@@ -1,0 +1,104 @@
+
+melina.sprite.minor_golden_tree_fx.png
+size: 3014,446
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_main
+  rotate: false
+  xy: 2791, 142
+  size: 221, 302
+  orig: 221, 302
+  offset: 0, 0
+  index: -1
+01_particles
+  rotate: true
+  xy: 855, 22
+  size: 422, 387
+  orig: 422, 387
+  offset: 0, 0
+  index: -1
+01_rim_light
+  rotate: true
+  xy: 2, 9
+  size: 435, 457
+  orig: 435, 457
+  offset: 0, 0
+  index: -1
+01_spell1
+  rotate: true
+  xy: 2521, 2
+  size: 154, 147
+  orig: 154, 147
+  offset: 0, 0
+  index: -1
+02_spell1
+  rotate: true
+  xy: 2521, 2
+  size: 154, 147
+  orig: 154, 147
+  offset: 0, 0
+  index: -1
+01_spell2
+  rotate: false
+  xy: 2670, 5
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+02_spell2
+  rotate: false
+  xy: 2670, 5
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+01_tree
+  rotate: false
+  xy: 1244, 27
+  size: 384, 417
+  orig: 384, 417
+  offset: 0, 0
+  index: -1
+02_main
+  rotate: true
+  xy: 2521, 158
+  size: 286, 268
+  orig: 286, 268
+  offset: 0, 0
+  index: -1
+02_particles
+  rotate: true
+  xy: 461, 11
+  size: 433, 392
+  orig: 433, 392
+  offset: 0, 0
+  index: -1
+02_rim_light
+  rotate: false
+  xy: 1630, 69
+  size: 346, 375
+  orig: 346, 375
+  offset: 0, 0
+  index: -1
+02_shadow
+  rotate: true
+  xy: 1978, 138
+  size: 306, 287
+  orig: 306, 287
+  offset: 0, 0
+  index: -1
+02_tree
+  rotate: false
+  xy: 2267, 126
+  size: 252, 318
+  orig: 252, 318
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1630, 33
+  size: 181, 34
+  orig: 181, 34
+  offset: 0, 0
+  index: -1

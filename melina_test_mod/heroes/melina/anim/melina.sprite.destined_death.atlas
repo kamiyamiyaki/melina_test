@@ -1,0 +1,20 @@
+
+melina.sprite.destined_death.png
+size: 307,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Main
+  rotate: true
+  xy: 2, 41
+  size: 373, 303
+  orig: 373, 303
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 181, 37
+  orig: 181, 37
+  offset: 0, 0
+  index: -1
